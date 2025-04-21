@@ -29,7 +29,8 @@ Utils.display_header(
 )
 
 # Initialize data loader
-data_loader = DataLoader(data_dir=r'C:\Users\user\Desktop\mental_health_dashboard\data')
+data_loader = DataLoader(data_dir=os.path.join(os.path.dirname(__file__), '..', 'data'))
+
 # Load datasets
 mental_health_df = data_loader.load_mental_health_data()
 stackoverflow_df = data_loader.load_stackoverflow_data()
