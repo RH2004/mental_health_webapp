@@ -5,9 +5,9 @@ from PIL import Image
 st.set_page_config(page_title="About Me", page_icon="👤", layout="centered")
 
 # --- Load Image ---
-image = Image.open('C:/Users/user/Desktop/mental_health_dashboard/assests/reda.jpg')
-
-
+# Get the path to the current file and build relative path to image
+image_path = os.path.join(os.path.dirname(__file__), '..', 'assests', 'reda.jpg')
+image = Image.open(image_path)
 
 # --- Layout ---
 col1, col2 = st.columns([1, 2])
