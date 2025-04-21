@@ -1,0 +1,1001 @@
+Country,Age,Gender,EdLevel,UndergradMajor,Employment,DevType,YearsCoding,YearsCodingProf,JobSatisfaction,CareerSatisfaction,WorkWeekHrs,WorkRemote,MentalHealth
+Canada,46,male,Some college,Other,Employed part-time,Full-stack developer,6-8 years,9-11 years,Very dissatisfied,Very satisfied,41,Rarely,Poor
+United States,59,male,Secondary school,Information systems,Employed part-time,Front-end developer,0-2 years,12+ years,Neutral,Very dissatisfied,74,Most of the time,Good
+India,52,male,Some college,Mathematics,Not employed,Other,3-5 years,3-5 years,Neutral,Neutral,37,Most of the time,Good
+France,29,female,Bachelors degree,Engineering,Self-employed,Data scientist,0-2 years,Not applicable,Very dissatisfied,Very satisfied,49,Full-time remote,Poor
+Other,47,male,Bachelors degree,Engineering,Employed full-time,Front-end developer,9-11 years,0-2 years,Slightly satisfied,Very satisfied,42,Most of the time,Good
+United States,23,other,Secondary school,Other,Student,Front-end developer,9-11 years,0-2 years,Very satisfied,Neutral,73,Never,Excellent
+Germany,45,female,Doctoral degree,Information systems,Student,Full-stack developer,9-11 years,12+ years,Very satisfied,Slightly satisfied,71,Never,Excellent
+India,50,male,Masters degree,Engineering,Employed full-time,Full-stack developer,9-11 years,9-11 years,Very dissatisfied,Very satisfied,35,Never,Good
+United Kingdom,57,male,Some college,Engineering,Employed full-time,Data scientist,6-8 years,0-2 years,Neutral,Slightly dissatisfied,36,Sometimes,Poor
+Australia,40,male,Bachelors degree,Information systems,Employed full-time,Front-end developer,9-11 years,3-5 years,Neutral,Very satisfied,64,Most of the time,Excellent
+United States,44,male,Bachelors degree,Mathematics,Employed part-time,Back-end developer,12+ years,0-2 years,Very dissatisfied,Very satisfied,20,Rarely,Fair
+Germany,55,male,Some college,Mathematics,Employed full-time,Other,3-5 years,6-8 years,Very satisfied,Neutral,78,Most of the time,Poor
+United Kingdom,61,male,Masters degree,Information systems,Employed full-time,Other,0-2 years,0-2 years,Slightly dissatisfied,Very satisfied,27,Full-time remote,Prefer not to say
+Netherlands,19,male,Doctoral degree,Engineering,Employed part-time,Other,12+ years,6-8 years,Very dissatisfied,Slightly dissatisfied,79,Full-time remote,Poor
+India,33,male,Bachelors degree,Other,Employed full-time,Other,0-2 years,0-2 years,Very dissatisfied,Neutral,69,Sometimes,Poor
+United Kingdom,48,female,Doctoral degree,Computer science,Self-employed,Other,9-11 years,9-11 years,Neutral,Slightly dissatisfied,63,Never,Excellent
+United Kingdom,25,male,Some college,Information systems,Not employed,Data scientist,9-11 years,3-5 years,Slightly satisfied,Very dissatisfied,62,Never,Good
+Germany,33,male,Bachelors degree,Computer science,Not employed,Full-stack developer,9-11 years,0-2 years,Very satisfied,Very dissatisfied,69,Full-time remote,Fair
+France,31,male,Secondary school,Engineering,Self-employed,Front-end developer,12+ years,Not applicable,Slightly dissatisfied,Very dissatisfied,25,Sometimes,Prefer not to say
+Canada,50,male,Secondary school,Engineering,Student,Other,0-2 years,9-11 years,Very dissatisfied,Slightly satisfied,57,Full-time remote,Fair
+Canada,44,male,Secondary school,Mathematics,Student,Other,6-8 years,3-5 years,Neutral,Neutral,24,Most of the time,Fair
+United States,36,male,Doctoral degree,Computer science,Employed part-time,Full-stack developer,6-8 years,Not applicable,Very satisfied,Slightly dissatisfied,70,Most of the time,Fair
+France,48,male,Secondary school,Mathematics,Self-employed,Back-end developer,12+ years,0-2 years,Neutral,Slightly dissatisfied,27,Most of the time,Fair
+Spain,58,female,Some college,Computer science,Self-employed,Back-end developer,0-2 years,6-8 years,Slightly satisfied,Very dissatisfied,62,Full-time remote,Prefer not to say
+United States,63,female,Doctoral degree,Engineering,Not employed,Front-end developer,6-8 years,9-11 years,Slightly satisfied,Very satisfied,24,Sometimes,Excellent
+Other,21,male,Bachelors degree,Mathematics,Not employed,Other,3-5 years,9-11 years,Very satisfied,Neutral,46,Rarely,Poor
+United States,59,male,Doctoral degree,Information systems,Employed part-time,Front-end developer,3-5 years,12+ years,Very dissatisfied,Slightly dissatisfied,50,Full-time remote,Fair
+Netherlands,35,male,Some college,Information systems,Employed part-time,Full-stack developer,0-2 years,12+ years,Slightly satisfied,Very dissatisfied,75,Rarely,Good
+United Kingdom,57,male,Bachelors degree,Other,Not employed,Front-end developer,12+ years,Not applicable,Slightly satisfied,Slightly satisfied,29,Sometimes,Fair
+United States,61,male,Secondary school,Other,Employed full-time,Other,0-2 years,3-5 years,Very dissatisfied,Neutral,66,Most of the time,Excellent
+Canada,19,male,Some college,Mathematics,Employed part-time,Data scientist,0-2 years,3-5 years,Very dissatisfied,Neutral,62,Most of the time,Excellent
+Canada,42,female,Some college,Information systems,Student,Back-end developer,6-8 years,3-5 years,Very dissatisfied,Very dissatisfied,34,Sometimes,Excellent
+Spain,35,male,Secondary school,Computer science,Not employed,Data scientist,9-11 years,3-5 years,Neutral,Very satisfied,77,Rarely,Fair
+Netherlands,36,male,Masters degree,Engineering,Student,Other,3-5 years,6-8 years,Slightly dissatisfied,Neutral,45,Most of the time,Fair
+Australia,58,female,Doctoral degree,Mathematics,Not employed,Front-end developer,0-2 years,9-11 years,Neutral,Neutral,79,Full-time remote,Prefer not to say
+Canada,26,female,Doctoral degree,Other,Not employed,Full-stack developer,9-11 years,12+ years,Neutral,Very dissatisfied,59,Most of the time,Excellent
+Spain,43,male,Some college,Engineering,Not employed,Back-end developer,3-5 years,3-5 years,Slightly satisfied,Very dissatisfied,61,Most of the time,Prefer not to say
+France,44,male,Bachelors degree,Information systems,Employed part-time,Front-end developer,3-5 years,9-11 years,Very satisfied,Slightly dissatisfied,31,Rarely,Fair
+United States,43,female,Some college,Engineering,Employed full-time,Back-end developer,6-8 years,12+ years,Very dissatisfied,Slightly dissatisfied,80,Rarely,Fair
+Germany,30,male,Secondary school,Computer science,Self-employed,Other,6-8 years,3-5 years,Slightly dissatisfied,Very satisfied,28,Never,Poor
+United Kingdom,27,male,Masters degree,Other,Student,Back-end developer,12+ years,0-2 years,Very dissatisfied,Very dissatisfied,59,Rarely,Good
+Netherlands,50,other,Masters degree,Mathematics,Not employed,Data scientist,6-8 years,6-8 years,Slightly satisfied,Very satisfied,70,Rarely,Fair
+Netherlands,32,male,Doctoral degree,Mathematics,Not employed,Back-end developer,0-2 years,9-11 years,Very satisfied,Very satisfied,27,Sometimes,Fair
+United States,45,male,Some college,Computer science,Not employed,Data scientist,3-5 years,12+ years,Very satisfied,Slightly dissatisfied,60,Sometimes,Good
+Brazil,47,male,Bachelors degree,Engineering,Not employed,Data scientist,9-11 years,6-8 years,Slightly dissatisfied,Very dissatisfied,69,Never,Excellent
+Other,62,male,Doctoral degree,Engineering,Student,Front-end developer,12+ years,9-11 years,Very dissatisfied,Slightly dissatisfied,39,Sometimes,Good
+Other,63,female,Secondary school,Engineering,Employed part-time,Full-stack developer,12+ years,6-8 years,Very satisfied,Very dissatisfied,79,Most of the time,Prefer not to say
+France,47,male,Masters degree,Mathematics,Employed full-time,Front-end developer,12+ years,0-2 years,Neutral,Slightly satisfied,74,Full-time remote,Good
+France,60,male,Doctoral degree,Other,Employed full-time,Data scientist,3-5 years,0-2 years,Neutral,Slightly satisfied,57,Never,Fair
+France,25,male,Bachelors degree,Other,Not employed,Other,0-2 years,Not applicable,Very dissatisfied,Very satisfied,50,Sometimes,Fair
+Spain,53,male,Doctoral degree,Information systems,Student,Other,12+ years,0-2 years,Neutral,Slightly dissatisfied,35,Full-time remote,Good
+Other,57,male,Some college,Information systems,Employed part-time,Back-end developer,6-8 years,6-8 years,Very satisfied,Neutral,52,Most of the time,Good
+Other,58,female,Bachelors degree,Mathematics,Self-employed,Other,0-2 years,0-2 years,Very satisfied,Slightly dissatisfied,35,Rarely,Excellent
+Australia,37,male,Doctoral degree,Information systems,Student,Other,3-5 years,9-11 years,Very satisfied,Slightly dissatisfied,50,Rarely,Good
+Germany,53,female,Doctoral degree,Other,Not employed,Other,12+ years,9-11 years,Neutral,Slightly satisfied,52,Most of the time,Good
+Brazil,55,male,Some college,Information systems,Employed full-time,Front-end developer,12+ years,6-8 years,Neutral,Slightly dissatisfied,49,Most of the time,Prefer not to say
+Germany,28,female,Masters degree,Information systems,Self-employed,Data scientist,6-8 years,0-2 years,Slightly satisfied,Neutral,33,Sometimes,Good
+United Kingdom,49,female,Doctoral degree,Information systems,Not employed,Data scientist,9-11 years,0-2 years,Slightly dissatisfied,Slightly satisfied,71,Rarely,Poor
+Other,24,male,Some college,Engineering,Student,Other,12+ years,9-11 years,Neutral,Very dissatisfied,33,Sometimes,Good
+Canada,36,female,Bachelors degree,Other,Student,Data scientist,3-5 years,9-11 years,Slightly dissatisfied,Slightly dissatisfied,62,Full-time remote,Good
+United Kingdom,31,male,Secondary school,Other,Employed full-time,Front-end developer,6-8 years,6-8 years,Slightly satisfied,Very dissatisfied,25,Sometimes,Good
+Australia,42,male,Bachelors degree,Other,Employed part-time,Other,9-11 years,Not applicable,Very dissatisfied,Neutral,66,Full-time remote,Good
+Germany,57,male,Bachelors degree,Other,Self-employed,Data scientist,3-5 years,0-2 years,Slightly satisfied,Very satisfied,72,Never,Fair
+Brazil,46,female,Bachelors degree,Information systems,Student,Data scientist,9-11 years,Not applicable,Slightly dissatisfied,Very dissatisfied,46,Most of the time,Excellent
+Spain,55,female,Doctoral degree,Other,Employed full-time,Data scientist,9-11 years,12+ years,Slightly dissatisfied,Slightly satisfied,35,Sometimes,Good
+Germany,28,female,Some college,Computer science,Employed part-time,Data scientist,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,32,Most of the time,Poor
+Brazil,55,male,Masters degree,Information systems,Self-employed,Full-stack developer,12+ years,0-2 years,Very satisfied,Slightly dissatisfied,36,Never,Poor
+Australia,32,female,Secondary school,Computer science,Not employed,Other,12+ years,9-11 years,Neutral,Very dissatisfied,30,Rarely,Good
+Canada,48,male,Secondary school,Mathematics,Not employed,Data scientist,12+ years,Not applicable,Slightly dissatisfied,Neutral,57,Never,Good
+France,27,male,Doctoral degree,Computer science,Self-employed,Data scientist,6-8 years,3-5 years,Slightly dissatisfied,Slightly satisfied,33,Full-time remote,Prefer not to say
+Germany,31,male,Doctoral degree,Other,Student,Other,0-2 years,9-11 years,Very satisfied,Slightly satisfied,63,Full-time remote,Good
+France,40,male,Secondary school,Information systems,Self-employed,Other,12+ years,12+ years,Very dissatisfied,Very satisfied,65,Sometimes,Good
+Germany,56,male,Bachelors degree,Computer science,Not employed,Data scientist,12+ years,9-11 years,Very dissatisfied,Slightly satisfied,79,Never,Good
+Spain,43,male,Secondary school,Engineering,Employed part-time,Other,12+ years,3-5 years,Very dissatisfied,Neutral,65,Most of the time,Good
+Germany,49,female,Doctoral degree,Computer science,Not employed,Other,9-11 years,Not applicable,Very dissatisfied,Slightly dissatisfied,29,Never,Good
+France,60,male,Doctoral degree,Other,Self-employed,Data scientist,6-8 years,Not applicable,Slightly dissatisfied,Very dissatisfied,52,Sometimes,Fair
+Other,56,male,Some college,Engineering,Employed full-time,Other,6-8 years,0-2 years,Very dissatisfied,Neutral,37,Full-time remote,Fair
+India,25,female,Some college,Engineering,Employed part-time,Other,0-2 years,Not applicable,Very satisfied,Slightly satisfied,71,Rarely,Poor
+Brazil,37,male,Masters degree,Engineering,Not employed,Front-end developer,0-2 years,3-5 years,Very satisfied,Slightly satisfied,55,Full-time remote,Prefer not to say
+United States,64,male,Some college,Mathematics,Employed full-time,Front-end developer,12+ years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,23,Never,Excellent
+United States,49,male,Some college,Engineering,Employed part-time,Full-stack developer,9-11 years,Not applicable,Very dissatisfied,Slightly dissatisfied,68,Never,Good
+Australia,42,male,Some college,Computer science,Self-employed,Data scientist,0-2 years,9-11 years,Slightly satisfied,Very satisfied,64,Full-time remote,Excellent
+India,51,male,Masters degree,Engineering,Self-employed,Full-stack developer,0-2 years,0-2 years,Slightly dissatisfied,Neutral,21,Sometimes,Good
+Germany,38,male,Masters degree,Other,Not employed,Other,6-8 years,Not applicable,Neutral,Very satisfied,69,Sometimes,Good
+India,19,male,Doctoral degree,Engineering,Student,Full-stack developer,0-2 years,Not applicable,Neutral,Neutral,35,Full-time remote,Good
+France,27,male,Bachelors degree,Mathematics,Employed full-time,Full-stack developer,12+ years,9-11 years,Very dissatisfied,Very dissatisfied,25,Never,Prefer not to say
+Spain,56,female,Secondary school,Engineering,Not employed,Full-stack developer,0-2 years,12+ years,Slightly satisfied,Neutral,68,Never,Poor
+United States,57,male,Bachelors degree,Information systems,Student,Full-stack developer,6-8 years,0-2 years,Very satisfied,Slightly dissatisfied,20,Never,Poor
+Germany,56,male,Secondary school,Mathematics,Employed full-time,Full-stack developer,12+ years,9-11 years,Slightly satisfied,Very dissatisfied,71,Most of the time,Poor
+Brazil,32,male,Masters degree,Computer science,Employed part-time,Data scientist,9-11 years,6-8 years,Very satisfied,Very satisfied,39,Most of the time,Excellent
+Netherlands,40,male,Some college,Computer science,Student,Front-end developer,6-8 years,12+ years,Slightly satisfied,Very dissatisfied,41,Never,Excellent
+Canada,18,female,Doctoral degree,Other,Not employed,Front-end developer,3-5 years,12+ years,Slightly satisfied,Slightly satisfied,60,Full-time remote,Good
+Brazil,46,female,Masters degree,Computer science,Student,Other,3-5 years,6-8 years,Slightly satisfied,Neutral,59,Most of the time,Good
+Australia,63,female,Secondary school,Mathematics,Student,Front-end developer,3-5 years,9-11 years,Very satisfied,Very dissatisfied,69,Sometimes,Good
+Netherlands,46,male,Secondary school,Information systems,Employed part-time,Data scientist,3-5 years,Not applicable,Very dissatisfied,Very dissatisfied,34,Rarely,Good
+Canada,44,male,Secondary school,Engineering,Employed full-time,Full-stack developer,0-2 years,3-5 years,Neutral,Very satisfied,25,Full-time remote,Fair
+France,27,male,Secondary school,Mathematics,Self-employed,Back-end developer,3-5 years,0-2 years,Slightly dissatisfied,Slightly satisfied,36,Most of the time,Fair
+Spain,26,female,Doctoral degree,Information systems,Not employed,Front-end developer,3-5 years,0-2 years,Very dissatisfied,Very satisfied,55,Most of the time,Fair
+Canada,64,male,Masters degree,Computer science,Employed part-time,Full-stack developer,6-8 years,0-2 years,Neutral,Neutral,27,Sometimes,Poor
+Australia,22,male,Some college,Computer science,Self-employed,Other,6-8 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,28,Rarely,Good
+Canada,48,male,Some college,Engineering,Not employed,Data scientist,9-11 years,6-8 years,Slightly dissatisfied,Very satisfied,29,Never,Good
+United Kingdom,38,male,Secondary school,Other,Employed part-time,Full-stack developer,6-8 years,9-11 years,Neutral,Very satisfied,66,Rarely,Excellent
+Netherlands,34,male,Secondary school,Information systems,Employed full-time,Data scientist,3-5 years,3-5 years,Slightly dissatisfied,Slightly satisfied,44,Most of the time,Excellent
+Brazil,18,male,Doctoral degree,Other,Student,Full-stack developer,12+ years,Not applicable,Very satisfied,Very dissatisfied,46,Never,Fair
+Australia,49,male,Some college,Computer science,Not employed,Full-stack developer,0-2 years,12+ years,Very satisfied,Very dissatisfied,75,Rarely,Fair
+Spain,21,male,Secondary school,Other,Student,Back-end developer,12+ years,6-8 years,Slightly satisfied,Slightly satisfied,26,Full-time remote,Good
+Spain,59,male,Secondary school,Information systems,Not employed,Full-stack developer,6-8 years,9-11 years,Slightly dissatisfied,Slightly satisfied,49,Full-time remote,Good
+India,38,male,Masters degree,Engineering,Employed full-time,Full-stack developer,9-11 years,6-8 years,Slightly satisfied,Neutral,42,Full-time remote,Fair
+Spain,20,male,Bachelors degree,Information systems,Employed full-time,Back-end developer,0-2 years,6-8 years,Very dissatisfied,Slightly satisfied,22,Rarely,Excellent
+Netherlands,38,female,Masters degree,Mathematics,Employed full-time,Front-end developer,6-8 years,9-11 years,Slightly dissatisfied,Very satisfied,74,Sometimes,Good
+France,29,female,Some college,Mathematics,Student,Full-stack developer,12+ years,3-5 years,Neutral,Slightly dissatisfied,75,Most of the time,Fair
+France,26,other,Doctoral degree,Other,Not employed,Data scientist,6-8 years,9-11 years,Very satisfied,Slightly satisfied,54,Rarely,Fair
+Other,26,male,Doctoral degree,Engineering,Student,Front-end developer,9-11 years,9-11 years,Very dissatisfied,Very satisfied,80,Never,Good
+Spain,52,male,Bachelors degree,Mathematics,Employed full-time,Full-stack developer,9-11 years,3-5 years,Very satisfied,Slightly dissatisfied,22,Never,Excellent
+Brazil,55,male,Masters degree,Engineering,Student,Other,3-5 years,3-5 years,Very dissatisfied,Slightly satisfied,43,Full-time remote,Fair
+Spain,37,male,Doctoral degree,Mathematics,Student,Front-end developer,3-5 years,9-11 years,Very satisfied,Slightly satisfied,42,Most of the time,Excellent
+Germany,25,female,Masters degree,Computer science,Employed full-time,Other,12+ years,9-11 years,Neutral,Very dissatisfied,61,Rarely,Poor
+Canada,56,male,Some college,Other,Employed part-time,Full-stack developer,12+ years,3-5 years,Very dissatisfied,Neutral,48,Most of the time,Good
+Other,26,male,Bachelors degree,Other,Employed full-time,Full-stack developer,9-11 years,6-8 years,Slightly satisfied,Slightly satisfied,21,Most of the time,Excellent
+United Kingdom,48,male,Masters degree,Engineering,Self-employed,Other,9-11 years,3-5 years,Neutral,Slightly dissatisfied,47,Most of the time,Good
+Germany,54,other,Some college,Mathematics,Employed full-time,Full-stack developer,3-5 years,6-8 years,Slightly satisfied,Neutral,75,Full-time remote,Excellent
+India,36,female,Bachelors degree,Other,Self-employed,Back-end developer,6-8 years,0-2 years,Slightly satisfied,Neutral,68,Most of the time,Fair
+Canada,37,male,Masters degree,Information systems,Not employed,Front-end developer,9-11 years,9-11 years,Very dissatisfied,Slightly dissatisfied,22,Never,Fair
+United Kingdom,23,male,Bachelors degree,Computer science,Employed full-time,Front-end developer,0-2 years,12+ years,Very dissatisfied,Very satisfied,58,Full-time remote,Excellent
+Other,33,male,Doctoral degree,Information systems,Employed part-time,Data scientist,6-8 years,6-8 years,Slightly dissatisfied,Very dissatisfied,33,Most of the time,Fair
+United Kingdom,34,male,Bachelors degree,Other,Employed full-time,Back-end developer,0-2 years,0-2 years,Very dissatisfied,Very dissatisfied,53,Never,Good
+India,32,male,Doctoral degree,Information systems,Not employed,Data scientist,0-2 years,Not applicable,Very satisfied,Very satisfied,20,Most of the time,Fair
+Canada,25,male,Doctoral degree,Engineering,Not employed,Data scientist,6-8 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,57,Sometimes,Poor
+France,53,male,Secondary school,Other,Employed full-time,Data scientist,12+ years,3-5 years,Very dissatisfied,Slightly dissatisfied,35,Never,Good
+France,26,female,Bachelors degree,Information systems,Employed full-time,Front-end developer,6-8 years,9-11 years,Slightly dissatisfied,Slightly dissatisfied,48,Full-time remote,Fair
+United States,62,male,Masters degree,Engineering,Employed full-time,Other,0-2 years,9-11 years,Very dissatisfied,Very dissatisfied,49,Sometimes,Good
+Germany,19,female,Some college,Other,Not employed,Full-stack developer,12+ years,Not applicable,Slightly satisfied,Very satisfied,21,Sometimes,Good
+Canada,58,male,Bachelors degree,Information systems,Student,Full-stack developer,6-8 years,Not applicable,Slightly dissatisfied,Slightly dissatisfied,78,Sometimes,Prefer not to say
+Other,33,male,Some college,Computer science,Employed part-time,Front-end developer,6-8 years,12+ years,Very dissatisfied,Very dissatisfied,72,Rarely,Good
+Australia,29,male,Some college,Other,Self-employed,Other,0-2 years,12+ years,Very dissatisfied,Slightly satisfied,72,Full-time remote,Good
+India,64,male,Bachelors degree,Other,Self-employed,Full-stack developer,9-11 years,12+ years,Slightly dissatisfied,Slightly satisfied,35,Rarely,Good
+United Kingdom,48,male,Masters degree,Engineering,Employed part-time,Other,6-8 years,0-2 years,Very dissatisfied,Very satisfied,26,Sometimes,Good
+Australia,26,female,Secondary school,Information systems,Employed part-time,Back-end developer,0-2 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,69,Rarely,Good
+Netherlands,58,male,Bachelors degree,Other,Self-employed,Full-stack developer,6-8 years,6-8 years,Slightly satisfied,Slightly satisfied,80,Most of the time,Good
+Germany,61,male,Secondary school,Information systems,Employed full-time,Front-end developer,12+ years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,76,Never,Good
+India,44,male,Secondary school,Other,Employed part-time,Other,3-5 years,3-5 years,Very dissatisfied,Very satisfied,56,Most of the time,Good
+Other,39,female,Bachelors degree,Mathematics,Not employed,Data scientist,0-2 years,12+ years,Slightly satisfied,Very satisfied,30,Full-time remote,Good
+India,19,male,Doctoral degree,Engineering,Not employed,Data scientist,9-11 years,0-2 years,Very satisfied,Slightly satisfied,78,Most of the time,Excellent
+Germany,63,female,Bachelors degree,Other,Self-employed,Back-end developer,12+ years,Not applicable,Neutral,Slightly satisfied,29,Rarely,Excellent
+Brazil,21,other,Bachelors degree,Mathematics,Not employed,Back-end developer,12+ years,3-5 years,Slightly dissatisfied,Slightly satisfied,34,Most of the time,Fair
+France,30,other,Secondary school,Computer science,Self-employed,Front-end developer,6-8 years,Not applicable,Very dissatisfied,Slightly satisfied,51,Never,Poor
+Other,53,female,Secondary school,Computer science,Not employed,Full-stack developer,0-2 years,Not applicable,Neutral,Very satisfied,60,Sometimes,Good
+Netherlands,36,male,Doctoral degree,Other,Self-employed,Front-end developer,9-11 years,12+ years,Slightly dissatisfied,Very dissatisfied,22,Rarely,Good
+Spain,26,female,Some college,Engineering,Employed full-time,Back-end developer,0-2 years,0-2 years,Very dissatisfied,Slightly satisfied,20,Sometimes,Excellent
+Other,58,female,Bachelors degree,Engineering,Employed full-time,Other,0-2 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,26,Rarely,Good
+United States,56,male,Secondary school,Mathematics,Student,Data scientist,3-5 years,3-5 years,Slightly satisfied,Very satisfied,78,Never,Prefer not to say
+France,49,male,Secondary school,Mathematics,Not employed,Front-end developer,0-2 years,6-8 years,Slightly satisfied,Slightly satisfied,20,Most of the time,Good
+United States,56,female,Doctoral degree,Other,Employed full-time,Other,6-8 years,3-5 years,Slightly satisfied,Very dissatisfied,29,Most of the time,Excellent
+Spain,64,male,Secondary school,Computer science,Not employed,Full-stack developer,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,38,Rarely,Poor
+Brazil,42,male,Some college,Engineering,Not employed,Back-end developer,12+ years,Not applicable,Very satisfied,Very satisfied,41,Sometimes,Excellent
+Australia,37,male,Some college,Computer science,Employed full-time,Data scientist,12+ years,0-2 years,Neutral,Slightly dissatisfied,61,Sometimes,Excellent
+Spain,38,male,Bachelors degree,Other,Self-employed,Front-end developer,0-2 years,6-8 years,Neutral,Very dissatisfied,32,Sometimes,Fair
+Other,40,female,Bachelors degree,Mathematics,Employed part-time,Front-end developer,0-2 years,6-8 years,Slightly dissatisfied,Slightly dissatisfied,62,Rarely,Excellent
+Spain,52,male,Masters degree,Mathematics,Employed full-time,Back-end developer,6-8 years,0-2 years,Slightly dissatisfied,Very dissatisfied,75,Full-time remote,Fair
+Australia,23,female,Bachelors degree,Engineering,Employed full-time,Full-stack developer,6-8 years,6-8 years,Slightly dissatisfied,Very satisfied,71,Most of the time,Excellent
+India,27,male,Bachelors degree,Mathematics,Self-employed,Full-stack developer,12+ years,12+ years,Slightly dissatisfied,Slightly satisfied,66,Most of the time,Good
+Netherlands,29,male,Masters degree,Engineering,Employed full-time,Data scientist,6-8 years,3-5 years,Very dissatisfied,Very satisfied,42,Never,Fair
+Netherlands,19,male,Some college,Engineering,Self-employed,Back-end developer,3-5 years,12+ years,Neutral,Neutral,43,Rarely,Excellent
+Canada,31,male,Some college,Mathematics,Self-employed,Other,3-5 years,9-11 years,Very dissatisfied,Slightly dissatisfied,72,Never,Good
+Netherlands,34,female,Masters degree,Mathematics,Self-employed,Front-end developer,6-8 years,6-8 years,Very satisfied,Very dissatisfied,38,Sometimes,Good
+India,36,male,Secondary school,Information systems,Self-employed,Back-end developer,12+ years,12+ years,Very dissatisfied,Very dissatisfied,73,Rarely,Good
+Brazil,36,female,Some college,Computer science,Self-employed,Back-end developer,9-11 years,0-2 years,Very dissatisfied,Slightly dissatisfied,29,Most of the time,Excellent
+Germany,46,male,Doctoral degree,Engineering,Not employed,Other,3-5 years,12+ years,Slightly dissatisfied,Very satisfied,42,Never,Good
+United States,30,male,Some college,Other,Employed part-time,Back-end developer,9-11 years,12+ years,Very dissatisfied,Slightly dissatisfied,36,Rarely,Prefer not to say
+India,26,male,Doctoral degree,Engineering,Student,Other,6-8 years,6-8 years,Neutral,Slightly satisfied,70,Sometimes,Fair
+Netherlands,19,male,Doctoral degree,Engineering,Employed full-time,Back-end developer,3-5 years,Not applicable,Slightly satisfied,Very dissatisfied,66,Most of the time,Good
+Australia,53,male,Masters degree,Other,Employed full-time,Back-end developer,3-5 years,6-8 years,Slightly satisfied,Slightly satisfied,60,Rarely,Fair
+Spain,40,male,Secondary school,Other,Employed part-time,Full-stack developer,3-5 years,Not applicable,Very satisfied,Very dissatisfied,25,Rarely,Good
+Germany,41,male,Bachelors degree,Mathematics,Employed part-time,Full-stack developer,9-11 years,Not applicable,Neutral,Very dissatisfied,47,Most of the time,Fair
+United Kingdom,35,female,Doctoral degree,Engineering,Student,Front-end developer,12+ years,6-8 years,Very satisfied,Neutral,29,Full-time remote,Good
+United States,33,female,Doctoral degree,Information systems,Student,Data scientist,12+ years,6-8 years,Very satisfied,Very dissatisfied,74,Sometimes,Good
+Germany,64,male,Doctoral degree,Information systems,Student,Back-end developer,3-5 years,12+ years,Slightly dissatisfied,Slightly satisfied,28,Never,Poor
+United Kingdom,42,female,Some college,Engineering,Not employed,Other,9-11 years,6-8 years,Very dissatisfied,Very dissatisfied,51,Full-time remote,Good
+United States,33,male,Some college,Information systems,Self-employed,Back-end developer,6-8 years,0-2 years,Very dissatisfied,Neutral,52,Most of the time,Fair
+United Kingdom,19,male,Masters degree,Mathematics,Not employed,Back-end developer,12+ years,9-11 years,Very dissatisfied,Slightly dissatisfied,70,Full-time remote,Fair
+Brazil,59,male,Doctoral degree,Mathematics,Not employed,Back-end developer,0-2 years,3-5 years,Slightly satisfied,Very dissatisfied,26,Full-time remote,Excellent
+Australia,56,male,Masters degree,Mathematics,Employed full-time,Other,3-5 years,6-8 years,Slightly dissatisfied,Very satisfied,53,Full-time remote,Good
+Canada,25,male,Bachelors degree,Information systems,Student,Back-end developer,12+ years,9-11 years,Very dissatisfied,Very satisfied,56,Rarely,Good
+Netherlands,20,male,Doctoral degree,Mathematics,Self-employed,Back-end developer,9-11 years,9-11 years,Very satisfied,Slightly satisfied,50,Rarely,Poor
+Canada,38,male,Some college,Engineering,Self-employed,Back-end developer,3-5 years,0-2 years,Slightly dissatisfied,Slightly satisfied,47,Full-time remote,Good
+Brazil,53,male,Masters degree,Engineering,Employed full-time,Full-stack developer,0-2 years,12+ years,Very dissatisfied,Slightly dissatisfied,54,Rarely,Good
+United States,36,male,Secondary school,Engineering,Student,Full-stack developer,9-11 years,Not applicable,Very dissatisfied,Slightly dissatisfied,75,Full-time remote,Excellent
+Canada,63,male,Doctoral degree,Other,Employed full-time,Front-end developer,12+ years,3-5 years,Slightly satisfied,Slightly dissatisfied,23,Sometimes,Good
+Brazil,29,other,Doctoral degree,Computer science,Self-employed,Full-stack developer,9-11 years,9-11 years,Very satisfied,Very dissatisfied,45,Never,Fair
+United States,36,male,Doctoral degree,Other,Student,Other,0-2 years,0-2 years,Neutral,Slightly satisfied,36,Rarely,Fair
+Canada,35,male,Masters degree,Mathematics,Employed part-time,Full-stack developer,6-8 years,12+ years,Neutral,Slightly satisfied,38,Most of the time,Fair
+Brazil,61,male,Some college,Computer science,Employed full-time,Full-stack developer,6-8 years,6-8 years,Very dissatisfied,Neutral,43,Never,Excellent
+Germany,57,male,Doctoral degree,Computer science,Employed full-time,Full-stack developer,0-2 years,6-8 years,Very dissatisfied,Neutral,53,Most of the time,Good
+Brazil,59,female,Masters degree,Engineering,Employed full-time,Data scientist,3-5 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,31,Never,Good
+Australia,35,male,Some college,Mathematics,Not employed,Other,0-2 years,0-2 years,Slightly satisfied,Very dissatisfied,74,Full-time remote,Fair
+Spain,47,male,Secondary school,Engineering,Student,Back-end developer,12+ years,3-5 years,Neutral,Slightly satisfied,52,Never,Excellent
+India,19,male,Some college,Engineering,Student,Data scientist,6-8 years,Not applicable,Slightly dissatisfied,Slightly satisfied,44,Never,Good
+Canada,64,female,Some college,Engineering,Employed part-time,Data scientist,12+ years,9-11 years,Neutral,Slightly dissatisfied,77,Sometimes,Excellent
+France,47,female,Doctoral degree,Mathematics,Employed part-time,Data scientist,6-8 years,Not applicable,Very dissatisfied,Neutral,64,Rarely,Excellent
+India,31,male,Bachelors degree,Engineering,Employed part-time,Data scientist,12+ years,12+ years,Neutral,Neutral,79,Most of the time,Poor
+Other,25,male,Masters degree,Engineering,Student,Back-end developer,6-8 years,0-2 years,Neutral,Slightly dissatisfied,26,Most of the time,Good
+Spain,47,male,Masters degree,Information systems,Not employed,Back-end developer,3-5 years,12+ years,Slightly dissatisfied,Slightly dissatisfied,46,Most of the time,Good
+United States,59,female,Secondary school,Computer science,Student,Back-end developer,3-5 years,9-11 years,Slightly satisfied,Neutral,67,Most of the time,Excellent
+United Kingdom,19,male,Some college,Other,Self-employed,Back-end developer,9-11 years,9-11 years,Slightly satisfied,Very satisfied,56,Full-time remote,Poor
+United Kingdom,20,male,Doctoral degree,Computer science,Self-employed,Data scientist,9-11 years,0-2 years,Slightly dissatisfied,Very dissatisfied,59,Sometimes,Excellent
+Australia,45,male,Doctoral degree,Engineering,Student,Front-end developer,12+ years,9-11 years,Very dissatisfied,Slightly satisfied,58,Most of the time,Fair
+Brazil,28,female,Some college,Mathematics,Employed full-time,Front-end developer,9-11 years,6-8 years,Very satisfied,Neutral,74,Sometimes,Fair
+France,53,female,Doctoral degree,Other,Student,Front-end developer,6-8 years,6-8 years,Very satisfied,Very satisfied,60,Most of the time,Fair
+Other,53,male,Secondary school,Engineering,Student,Data scientist,0-2 years,12+ years,Very dissatisfied,Slightly satisfied,77,Full-time remote,Fair
+United States,48,male,Some college,Engineering,Student,Other,12+ years,3-5 years,Slightly satisfied,Very dissatisfied,66,Most of the time,Excellent
+Netherlands,23,male,Doctoral degree,Information systems,Employed full-time,Front-end developer,0-2 years,3-5 years,Neutral,Neutral,21,Rarely,Fair
+Canada,27,male,Some college,Computer science,Employed full-time,Other,6-8 years,Not applicable,Neutral,Neutral,61,Most of the time,Good
+United States,59,male,Some college,Mathematics,Not employed,Back-end developer,3-5 years,3-5 years,Neutral,Slightly dissatisfied,63,Sometimes,Excellent
+Spain,28,male,Secondary school,Other,Not employed,Data scientist,6-8 years,3-5 years,Very dissatisfied,Very satisfied,79,Most of the time,Excellent
+Other,41,male,Masters degree,Computer science,Student,Front-end developer,12+ years,12+ years,Very dissatisfied,Very dissatisfied,54,Rarely,Excellent
+Spain,33,female,Masters degree,Computer science,Employed full-time,Other,9-11 years,0-2 years,Very dissatisfied,Slightly satisfied,63,Full-time remote,Good
+India,64,female,Doctoral degree,Engineering,Self-employed,Back-end developer,0-2 years,12+ years,Very dissatisfied,Neutral,49,Most of the time,Good
+Spain,32,male,Some college,Engineering,Student,Front-end developer,12+ years,0-2 years,Slightly dissatisfied,Very satisfied,65,Rarely,Prefer not to say
+India,24,male,Masters degree,Information systems,Self-employed,Other,6-8 years,6-8 years,Very satisfied,Neutral,70,Never,Fair
+Brazil,49,female,Bachelors degree,Computer science,Self-employed,Other,9-11 years,9-11 years,Very dissatisfied,Slightly dissatisfied,71,Sometimes,Good
+United States,57,male,Bachelors degree,Computer science,Student,Front-end developer,6-8 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,21,Rarely,Excellent
+United Kingdom,53,male,Doctoral degree,Information systems,Employed full-time,Front-end developer,3-5 years,9-11 years,Very satisfied,Neutral,22,Most of the time,Fair
+India,49,female,Masters degree,Computer science,Student,Data scientist,9-11 years,0-2 years,Slightly satisfied,Slightly dissatisfied,39,Never,Good
+France,50,female,Some college,Mathematics,Not employed,Front-end developer,3-5 years,6-8 years,Slightly satisfied,Neutral,50,Rarely,Good
+Netherlands,47,male,Masters degree,Engineering,Student,Full-stack developer,6-8 years,3-5 years,Very dissatisfied,Slightly satisfied,55,Sometimes,Fair
+Netherlands,62,female,Masters degree,Information systems,Student,Front-end developer,12+ years,6-8 years,Very satisfied,Slightly satisfied,23,Most of the time,Good
+Netherlands,38,male,Bachelors degree,Computer science,Employed full-time,Data scientist,12+ years,6-8 years,Neutral,Very dissatisfied,64,Full-time remote,Excellent
+United States,59,female,Masters degree,Information systems,Student,Data scientist,6-8 years,3-5 years,Very satisfied,Very dissatisfied,22,Sometimes,Excellent
+France,34,male,Masters degree,Engineering,Not employed,Back-end developer,9-11 years,Not applicable,Very dissatisfied,Very satisfied,71,Rarely,Good
+Netherlands,47,male,Bachelors degree,Engineering,Employed full-time,Other,6-8 years,6-8 years,Very satisfied,Slightly dissatisfied,54,Sometimes,Excellent
+France,59,male,Masters degree,Information systems,Employed part-time,Other,6-8 years,0-2 years,Slightly satisfied,Slightly dissatisfied,36,Full-time remote,Prefer not to say
+Spain,41,male,Some college,Computer science,Not employed,Other,9-11 years,6-8 years,Neutral,Very satisfied,76,Never,Poor
+Germany,35,male,Secondary school,Information systems,Employed full-time,Front-end developer,0-2 years,Not applicable,Slightly dissatisfied,Neutral,29,Full-time remote,Good
+United Kingdom,20,male,Some college,Information systems,Employed part-time,Full-stack developer,3-5 years,12+ years,Very satisfied,Neutral,80,Full-time remote,Prefer not to say
+United States,37,male,Secondary school,Computer science,Employed part-time,Back-end developer,3-5 years,9-11 years,Slightly satisfied,Slightly satisfied,40,Never,Excellent
+France,49,other,Masters degree,Mathematics,Self-employed,Back-end developer,0-2 years,6-8 years,Very satisfied,Neutral,55,Sometimes,Excellent
+France,37,male,Bachelors degree,Engineering,Employed full-time,Data scientist,6-8 years,Not applicable,Very dissatisfied,Very dissatisfied,51,Most of the time,Good
+United States,45,other,Masters degree,Engineering,Employed part-time,Other,12+ years,3-5 years,Very dissatisfied,Very dissatisfied,57,Full-time remote,Prefer not to say
+India,60,male,Doctoral degree,Information systems,Student,Back-end developer,3-5 years,9-11 years,Slightly dissatisfied,Slightly satisfied,45,Rarely,Poor
+Germany,22,other,Bachelors degree,Computer science,Employed full-time,Back-end developer,0-2 years,Not applicable,Slightly dissatisfied,Neutral,56,Sometimes,Good
+France,31,male,Doctoral degree,Information systems,Student,Data scientist,12+ years,0-2 years,Slightly satisfied,Very satisfied,43,Rarely,Good
+Other,22,male,Masters degree,Mathematics,Employed part-time,Other,0-2 years,Not applicable,Neutral,Very dissatisfied,59,Most of the time,Excellent
+Other,60,male,Bachelors degree,Mathematics,Not employed,Full-stack developer,12+ years,9-11 years,Neutral,Neutral,63,Never,Good
+France,46,male,Doctoral degree,Engineering,Not employed,Full-stack developer,12+ years,3-5 years,Neutral,Slightly dissatisfied,77,Sometimes,Excellent
+United Kingdom,47,male,Doctoral degree,Other,Employed part-time,Back-end developer,12+ years,9-11 years,Neutral,Slightly dissatisfied,63,Full-time remote,Good
+United States,48,male,Some college,Computer science,Not employed,Back-end developer,9-11 years,Not applicable,Slightly satisfied,Neutral,52,Sometimes,Poor
+Netherlands,35,female,Bachelors degree,Mathematics,Not employed,Other,12+ years,Not applicable,Slightly satisfied,Very dissatisfied,80,Sometimes,Poor
+Other,50,male,Doctoral degree,Other,Student,Front-end developer,9-11 years,Not applicable,Slightly satisfied,Very dissatisfied,34,Sometimes,Excellent
+Australia,61,male,Some college,Other,Self-employed,Other,3-5 years,12+ years,Very satisfied,Slightly dissatisfied,66,Sometimes,Poor
+Netherlands,62,male,Masters degree,Computer science,Employed full-time,Full-stack developer,0-2 years,9-11 years,Slightly dissatisfied,Very satisfied,58,Most of the time,Fair
+Spain,52,female,Masters degree,Information systems,Employed part-time,Full-stack developer,3-5 years,3-5 years,Slightly satisfied,Slightly satisfied,54,Full-time remote,Excellent
+India,34,female,Doctoral degree,Other,Self-employed,Other,3-5 years,3-5 years,Slightly satisfied,Very satisfied,58,Sometimes,Fair
+Spain,47,male,Secondary school,Information systems,Employed part-time,Back-end developer,9-11 years,12+ years,Very dissatisfied,Very dissatisfied,55,Sometimes,Good
+France,46,female,Doctoral degree,Information systems,Student,Full-stack developer,3-5 years,12+ years,Neutral,Very satisfied,32,Full-time remote,Good
+India,25,male,Doctoral degree,Mathematics,Not employed,Front-end developer,6-8 years,3-5 years,Slightly dissatisfied,Very dissatisfied,48,Full-time remote,Excellent
+Canada,64,male,Bachelors degree,Other,Employed full-time,Back-end developer,6-8 years,9-11 years,Very satisfied,Slightly satisfied,30,Sometimes,Poor
+India,31,male,Doctoral degree,Engineering,Employed part-time,Other,0-2 years,0-2 years,Slightly satisfied,Slightly dissatisfied,79,Never,Good
+India,20,female,Masters degree,Information systems,Self-employed,Front-end developer,3-5 years,Not applicable,Neutral,Very satisfied,54,Rarely,Fair
+Spain,29,male,Doctoral degree,Other,Student,Data scientist,12+ years,3-5 years,Slightly dissatisfied,Very dissatisfied,42,Sometimes,Excellent
+Other,18,male,Bachelors degree,Other,Employed part-time,Other,12+ years,3-5 years,Neutral,Very satisfied,20,Full-time remote,Poor
+United States,39,female,Secondary school,Computer science,Not employed,Back-end developer,0-2 years,9-11 years,Very satisfied,Slightly dissatisfied,33,Most of the time,Fair
+India,45,female,Some college,Information systems,Student,Back-end developer,3-5 years,9-11 years,Slightly dissatisfied,Neutral,76,Rarely,Excellent
+India,19,female,Doctoral degree,Other,Employed part-time,Back-end developer,0-2 years,9-11 years,Very dissatisfied,Very satisfied,53,Full-time remote,Good
+Other,64,male,Doctoral degree,Other,Employed part-time,Front-end developer,9-11 years,0-2 years,Very satisfied,Slightly satisfied,44,Most of the time,Fair
+Germany,63,male,Masters degree,Computer science,Not employed,Full-stack developer,9-11 years,Not applicable,Very satisfied,Very satisfied,45,Most of the time,Good
+Spain,40,male,Doctoral degree,Mathematics,Student,Full-stack developer,9-11 years,9-11 years,Very dissatisfied,Slightly dissatisfied,37,Full-time remote,Good
+Canada,49,male,Doctoral degree,Mathematics,Not employed,Full-stack developer,12+ years,6-8 years,Slightly satisfied,Slightly satisfied,56,Sometimes,Poor
+Germany,22,male,Doctoral degree,Other,Employed full-time,Full-stack developer,3-5 years,6-8 years,Slightly dissatisfied,Slightly satisfied,54,Never,Fair
+Spain,42,male,Bachelors degree,Engineering,Self-employed,Other,9-11 years,Not applicable,Very dissatisfied,Neutral,32,Sometimes,Good
+Australia,50,male,Doctoral degree,Information systems,Employed full-time,Front-end developer,9-11 years,6-8 years,Slightly satisfied,Very satisfied,60,Rarely,Poor
+Other,31,male,Doctoral degree,Computer science,Employed full-time,Full-stack developer,3-5 years,6-8 years,Very dissatisfied,Neutral,44,Rarely,Good
+United Kingdom,59,male,Secondary school,Computer science,Self-employed,Other,6-8 years,6-8 years,Very satisfied,Neutral,40,Never,Good
+United Kingdom,28,male,Secondary school,Engineering,Student,Full-stack developer,0-2 years,3-5 years,Slightly dissatisfied,Slightly satisfied,55,Most of the time,Good
+Australia,24,male,Bachelors degree,Other,Student,Front-end developer,12+ years,12+ years,Slightly dissatisfied,Neutral,24,Most of the time,Excellent
+India,20,male,Secondary school,Other,Employed full-time,Other,9-11 years,Not applicable,Neutral,Slightly satisfied,66,Sometimes,Prefer not to say
+France,59,male,Bachelors degree,Other,Not employed,Full-stack developer,6-8 years,12+ years,Very dissatisfied,Very dissatisfied,70,Most of the time,Poor
+United States,34,male,Bachelors degree,Computer science,Employed full-time,Back-end developer,3-5 years,3-5 years,Very satisfied,Neutral,56,Rarely,Fair
+Canada,59,male,Some college,Information systems,Student,Front-end developer,9-11 years,6-8 years,Slightly satisfied,Neutral,29,Rarely,Excellent
+United Kingdom,25,male,Doctoral degree,Other,Employed part-time,Back-end developer,12+ years,6-8 years,Neutral,Slightly satisfied,62,Sometimes,Excellent
+Brazil,33,male,Secondary school,Mathematics,Employed full-time,Full-stack developer,3-5 years,Not applicable,Very satisfied,Very satisfied,78,Sometimes,Good
+Other,49,male,Doctoral degree,Mathematics,Student,Full-stack developer,6-8 years,0-2 years,Very dissatisfied,Slightly satisfied,36,Most of the time,Good
+Germany,20,male,Bachelors degree,Computer science,Student,Back-end developer,3-5 years,9-11 years,Slightly satisfied,Slightly satisfied,57,Rarely,Fair
+France,26,male,Bachelors degree,Engineering,Not employed,Front-end developer,3-5 years,3-5 years,Very satisfied,Neutral,45,Rarely,Good
+Australia,51,male,Secondary school,Engineering,Student,Front-end developer,6-8 years,0-2 years,Very dissatisfied,Slightly satisfied,54,Never,Good
+Spain,51,female,Bachelors degree,Engineering,Not employed,Other,9-11 years,9-11 years,Slightly dissatisfied,Neutral,34,Most of the time,Poor
+Netherlands,44,male,Doctoral degree,Mathematics,Employed full-time,Data scientist,9-11 years,9-11 years,Slightly satisfied,Slightly dissatisfied,74,Never,Poor
+Other,32,male,Doctoral degree,Mathematics,Student,Other,0-2 years,0-2 years,Slightly satisfied,Slightly dissatisfied,55,Sometimes,Excellent
+Spain,46,male,Some college,Computer science,Employed part-time,Front-end developer,6-8 years,9-11 years,Neutral,Very dissatisfied,51,Rarely,Excellent
+Netherlands,28,male,Doctoral degree,Engineering,Not employed,Back-end developer,12+ years,Not applicable,Slightly satisfied,Slightly satisfied,67,Never,Good
+United Kingdom,59,male,Doctoral degree,Other,Employed full-time,Back-end developer,3-5 years,3-5 years,Slightly satisfied,Slightly dissatisfied,43,Rarely,Fair
+Other,58,male,Some college,Computer science,Student,Front-end developer,0-2 years,0-2 years,Neutral,Slightly satisfied,53,Rarely,Good
+Spain,63,male,Bachelors degree,Computer science,Employed part-time,Data scientist,6-8 years,9-11 years,Very dissatisfied,Very dissatisfied,68,Never,Fair
+Spain,62,male,Doctoral degree,Information systems,Self-employed,Front-end developer,0-2 years,9-11 years,Slightly satisfied,Slightly dissatisfied,53,Rarely,Fair
+Canada,25,female,Some college,Mathematics,Not employed,Back-end developer,6-8 years,0-2 years,Neutral,Slightly dissatisfied,66,Never,Good
+Netherlands,22,female,Bachelors degree,Mathematics,Not employed,Back-end developer,6-8 years,12+ years,Very satisfied,Very satisfied,52,Full-time remote,Fair
+Australia,23,male,Secondary school,Computer science,Self-employed,Front-end developer,12+ years,12+ years,Neutral,Slightly satisfied,29,Rarely,Excellent
+Canada,38,male,Bachelors degree,Computer science,Student,Data scientist,0-2 years,Not applicable,Slightly dissatisfied,Slightly dissatisfied,78,Sometimes,Prefer not to say
+Other,33,male,Masters degree,Engineering,Self-employed,Full-stack developer,0-2 years,9-11 years,Slightly satisfied,Very dissatisfied,60,Most of the time,Good
+United Kingdom,18,female,Masters degree,Information systems,Employed full-time,Front-end developer,0-2 years,6-8 years,Very satisfied,Very dissatisfied,56,Rarely,Good
+Other,50,male,Bachelors degree,Mathematics,Self-employed,Data scientist,6-8 years,0-2 years,Slightly satisfied,Very satisfied,78,Rarely,Good
+Spain,48,male,Secondary school,Engineering,Employed full-time,Back-end developer,0-2 years,Not applicable,Neutral,Neutral,64,Rarely,Poor
+Spain,56,male,Some college,Engineering,Student,Back-end developer,12+ years,9-11 years,Neutral,Neutral,47,Never,Good
+Australia,30,male,Secondary school,Other,Self-employed,Front-end developer,9-11 years,12+ years,Slightly satisfied,Slightly satisfied,29,Rarely,Excellent
+Spain,57,male,Bachelors degree,Mathematics,Student,Full-stack developer,9-11 years,Not applicable,Slightly satisfied,Slightly dissatisfied,40,Rarely,Fair
+Other,60,male,Secondary school,Mathematics,Self-employed,Back-end developer,0-2 years,9-11 years,Very dissatisfied,Slightly dissatisfied,46,Never,Excellent
+Netherlands,20,male,Secondary school,Engineering,Employed full-time,Full-stack developer,6-8 years,9-11 years,Very dissatisfied,Slightly dissatisfied,60,Full-time remote,Good
+United States,52,male,Secondary school,Computer science,Self-employed,Full-stack developer,9-11 years,Not applicable,Neutral,Very satisfied,29,Most of the time,Excellent
+Australia,24,male,Secondary school,Mathematics,Self-employed,Back-end developer,12+ years,Not applicable,Very satisfied,Very satisfied,72,Most of the time,Fair
+Australia,60,female,Some college,Information systems,Self-employed,Front-end developer,6-8 years,12+ years,Slightly dissatisfied,Slightly dissatisfied,32,Never,Fair
+France,57,female,Masters degree,Computer science,Not employed,Full-stack developer,6-8 years,9-11 years,Neutral,Neutral,57,Never,Excellent
+Brazil,30,male,Secondary school,Computer science,Not employed,Front-end developer,9-11 years,Not applicable,Slightly dissatisfied,Neutral,45,Rarely,Fair
+Netherlands,25,male,Bachelors degree,Information systems,Not employed,Data scientist,3-5 years,9-11 years,Neutral,Slightly dissatisfied,43,Never,Excellent
+France,63,male,Doctoral degree,Engineering,Student,Data scientist,6-8 years,0-2 years,Very dissatisfied,Very satisfied,60,Most of the time,Fair
+Other,53,female,Some college,Engineering,Not employed,Other,0-2 years,6-8 years,Slightly satisfied,Neutral,66,Full-time remote,Good
+Australia,51,male,Secondary school,Other,Employed full-time,Back-end developer,6-8 years,3-5 years,Slightly satisfied,Very dissatisfied,25,Never,Fair
+Brazil,25,male,Bachelors degree,Mathematics,Not employed,Front-end developer,12+ years,12+ years,Very dissatisfied,Neutral,37,Sometimes,Fair
+India,52,male,Masters degree,Mathematics,Self-employed,Data scientist,6-8 years,12+ years,Very dissatisfied,Slightly dissatisfied,51,Sometimes,Poor
+United States,63,female,Secondary school,Engineering,Self-employed,Full-stack developer,6-8 years,12+ years,Slightly dissatisfied,Very satisfied,66,Rarely,Excellent
+Brazil,48,other,Bachelors degree,Information systems,Not employed,Front-end developer,9-11 years,6-8 years,Very dissatisfied,Very dissatisfied,35,Most of the time,Fair
+India,44,male,Bachelors degree,Engineering,Not employed,Other,6-8 years,Not applicable,Very satisfied,Slightly satisfied,67,Rarely,Poor
+United States,23,male,Some college,Other,Student,Other,9-11 years,9-11 years,Very dissatisfied,Slightly dissatisfied,27,Most of the time,Prefer not to say
+Brazil,31,male,Some college,Engineering,Employed part-time,Full-stack developer,0-2 years,0-2 years,Very satisfied,Very satisfied,34,Never,Excellent
+Spain,42,female,Some college,Mathematics,Employed part-time,Front-end developer,6-8 years,3-5 years,Slightly satisfied,Very dissatisfied,63,Never,Good
+France,54,female,Doctoral degree,Computer science,Student,Other,12+ years,12+ years,Very dissatisfied,Slightly dissatisfied,35,Full-time remote,Good
+United States,54,male,Some college,Computer science,Employed full-time,Data scientist,3-5 years,Not applicable,Neutral,Neutral,66,Never,Good
+Canada,56,male,Bachelors degree,Computer science,Employed part-time,Full-stack developer,9-11 years,12+ years,Neutral,Slightly satisfied,58,Full-time remote,Good
+India,59,female,Doctoral degree,Other,Employed full-time,Back-end developer,3-5 years,9-11 years,Very dissatisfied,Neutral,51,Most of the time,Fair
+Spain,58,male,Masters degree,Engineering,Self-employed,Front-end developer,9-11 years,0-2 years,Slightly satisfied,Slightly satisfied,48,Full-time remote,Good
+United Kingdom,48,female,Some college,Mathematics,Employed part-time,Data scientist,9-11 years,3-5 years,Very satisfied,Slightly dissatisfied,34,Full-time remote,Excellent
+France,28,male,Bachelors degree,Mathematics,Student,Other,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,21,Sometimes,Poor
+Netherlands,43,male,Some college,Information systems,Not employed,Data scientist,6-8 years,9-11 years,Slightly dissatisfied,Very dissatisfied,55,Sometimes,Excellent
+Brazil,30,male,Some college,Other,Employed full-time,Back-end developer,12+ years,3-5 years,Very dissatisfied,Very satisfied,77,Most of the time,Poor
+India,54,female,Masters degree,Mathematics,Employed full-time,Front-end developer,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,47,Never,Fair
+Brazil,18,male,Masters degree,Information systems,Employed full-time,Data scientist,6-8 years,Not applicable,Very satisfied,Very satisfied,58,Rarely,Excellent
+Brazil,56,male,Masters degree,Other,Employed part-time,Other,12+ years,3-5 years,Neutral,Very dissatisfied,37,Rarely,Fair
+United States,37,male,Doctoral degree,Mathematics,Employed full-time,Front-end developer,0-2 years,12+ years,Very satisfied,Neutral,37,Never,Good
+Brazil,24,male,Some college,Computer science,Not employed,Front-end developer,12+ years,Not applicable,Neutral,Very dissatisfied,57,Rarely,Good
+Australia,46,male,Doctoral degree,Engineering,Not employed,Full-stack developer,6-8 years,12+ years,Slightly satisfied,Neutral,34,Never,Good
+Brazil,33,male,Bachelors degree,Computer science,Self-employed,Back-end developer,0-2 years,9-11 years,Slightly satisfied,Very satisfied,21,Sometimes,Good
+Spain,52,male,Masters degree,Other,Employed full-time,Other,6-8 years,6-8 years,Neutral,Slightly satisfied,74,Most of the time,Good
+Netherlands,23,male,Some college,Engineering,Not employed,Other,3-5 years,9-11 years,Slightly satisfied,Slightly dissatisfied,31,Full-time remote,Poor
+Netherlands,30,male,Doctoral degree,Mathematics,Employed full-time,Data scientist,9-11 years,9-11 years,Neutral,Slightly dissatisfied,53,Full-time remote,Good
+India,54,male,Masters degree,Information systems,Employed part-time,Other,9-11 years,9-11 years,Slightly dissatisfied,Very dissatisfied,69,Most of the time,Fair
+United Kingdom,31,female,Some college,Computer science,Student,Front-end developer,3-5 years,12+ years,Neutral,Neutral,55,Rarely,Good
+Germany,48,male,Some college,Engineering,Employed part-time,Other,0-2 years,Not applicable,Neutral,Slightly dissatisfied,73,Most of the time,Good
+Germany,29,male,Doctoral degree,Engineering,Employed part-time,Other,12+ years,Not applicable,Slightly satisfied,Slightly satisfied,67,Full-time remote,Fair
+Germany,65,male,Some college,Computer science,Employed part-time,Data scientist,6-8 years,3-5 years,Very satisfied,Very satisfied,21,Full-time remote,Good
+Canada,57,male,Doctoral degree,Computer science,Self-employed,Full-stack developer,6-8 years,Not applicable,Neutral,Very satisfied,77,Most of the time,Good
+Netherlands,25,male,Secondary school,Information systems,Not employed,Other,3-5 years,9-11 years,Very dissatisfied,Slightly dissatisfied,66,Full-time remote,Good
+Canada,18,male,Bachelors degree,Engineering,Not employed,Full-stack developer,3-5 years,9-11 years,Slightly satisfied,Neutral,48,Most of the time,Prefer not to say
+Netherlands,42,female,Some college,Information systems,Employed part-time,Full-stack developer,9-11 years,9-11 years,Very dissatisfied,Neutral,42,Sometimes,Good
+United Kingdom,59,male,Secondary school,Computer science,Not employed,Data scientist,6-8 years,6-8 years,Neutral,Very satisfied,64,Most of the time,Good
+Netherlands,38,male,Some college,Engineering,Not employed,Data scientist,3-5 years,12+ years,Slightly satisfied,Neutral,60,Rarely,Prefer not to say
+India,30,male,Doctoral degree,Engineering,Employed part-time,Data scientist,0-2 years,12+ years,Neutral,Very dissatisfied,36,Never,Fair
+Netherlands,23,female,Masters degree,Other,Student,Full-stack developer,0-2 years,3-5 years,Very satisfied,Very dissatisfied,39,Rarely,Good
+India,18,male,Masters degree,Computer science,Not employed,Back-end developer,0-2 years,Not applicable,Neutral,Neutral,29,Full-time remote,Good
+United Kingdom,55,male,Masters degree,Information systems,Self-employed,Other,12+ years,0-2 years,Slightly satisfied,Slightly satisfied,60,Sometimes,Good
+Canada,63,male,Bachelors degree,Computer science,Not employed,Full-stack developer,6-8 years,Not applicable,Very satisfied,Neutral,73,Rarely,Prefer not to say
+Other,36,male,Bachelors degree,Mathematics,Self-employed,Back-end developer,3-5 years,9-11 years,Very satisfied,Neutral,77,Most of the time,Poor
+Spain,38,male,Some college,Information systems,Self-employed,Back-end developer,12+ years,9-11 years,Very satisfied,Slightly dissatisfied,68,Rarely,Prefer not to say
+Australia,56,female,Bachelors degree,Computer science,Employed part-time,Data scientist,9-11 years,Not applicable,Slightly dissatisfied,Slightly satisfied,60,Full-time remote,Poor
+Germany,22,female,Masters degree,Computer science,Employed full-time,Data scientist,9-11 years,12+ years,Neutral,Slightly dissatisfied,51,Sometimes,Excellent
+Australia,53,male,Bachelors degree,Computer science,Student,Front-end developer,3-5 years,6-8 years,Slightly dissatisfied,Very satisfied,32,Most of the time,Good
+Germany,63,female,Secondary school,Information systems,Employed full-time,Other,12+ years,0-2 years,Very satisfied,Very satisfied,72,Never,Good
+United Kingdom,43,male,Bachelors degree,Computer science,Not employed,Front-end developer,3-5 years,0-2 years,Slightly dissatisfied,Very satisfied,65,Sometimes,Fair
+India,43,female,Bachelors degree,Computer science,Not employed,Other,3-5 years,9-11 years,Slightly dissatisfied,Slightly satisfied,72,Rarely,Excellent
+Other,43,female,Bachelors degree,Information systems,Employed part-time,Data scientist,12+ years,12+ years,Very dissatisfied,Neutral,66,Full-time remote,Excellent
+Germany,25,male,Masters degree,Engineering,Employed part-time,Front-end developer,9-11 years,0-2 years,Neutral,Slightly dissatisfied,66,Rarely,Excellent
+Germany,47,male,Doctoral degree,Engineering,Not employed,Data scientist,6-8 years,9-11 years,Slightly satisfied,Slightly satisfied,46,Never,Good
+India,51,female,Some college,Information systems,Student,Data scientist,9-11 years,12+ years,Neutral,Neutral,36,Sometimes,Good
+Other,34,male,Secondary school,Information systems,Self-employed,Data scientist,6-8 years,3-5 years,Very dissatisfied,Neutral,79,Never,Prefer not to say
+Spain,55,male,Some college,Computer science,Employed full-time,Front-end developer,0-2 years,3-5 years,Slightly dissatisfied,Neutral,46,Sometimes,Good
+Germany,43,male,Doctoral degree,Information systems,Employed full-time,Back-end developer,9-11 years,0-2 years,Very satisfied,Very satisfied,42,Sometimes,Poor
+India,61,male,Some college,Computer science,Student,Back-end developer,6-8 years,Not applicable,Slightly satisfied,Very satisfied,50,Sometimes,Prefer not to say
+Germany,64,male,Masters degree,Information systems,Not employed,Other,6-8 years,12+ years,Very dissatisfied,Very satisfied,59,Most of the time,Fair
+Spain,44,male,Secondary school,Computer science,Employed full-time,Front-end developer,12+ years,0-2 years,Slightly satisfied,Slightly satisfied,34,Full-time remote,Good
+United States,23,female,Masters degree,Information systems,Self-employed,Data scientist,12+ years,12+ years,Slightly dissatisfied,Very satisfied,80,Most of the time,Good
+United Kingdom,36,male,Doctoral degree,Computer science,Not employed,Front-end developer,9-11 years,6-8 years,Neutral,Neutral,60,Most of the time,Excellent
+United States,64,male,Doctoral degree,Information systems,Employed full-time,Back-end developer,6-8 years,3-5 years,Neutral,Very dissatisfied,70,Rarely,Good
+India,63,female,Secondary school,Engineering,Employed part-time,Data scientist,0-2 years,Not applicable,Very dissatisfied,Slightly dissatisfied,20,Full-time remote,Fair
+India,50,male,Masters degree,Engineering,Employed part-time,Full-stack developer,9-11 years,9-11 years,Slightly dissatisfied,Very dissatisfied,74,Never,Fair
+Canada,56,male,Masters degree,Information systems,Student,Other,6-8 years,Not applicable,Neutral,Very dissatisfied,42,Full-time remote,Good
+Germany,51,male,Secondary school,Computer science,Employed full-time,Back-end developer,0-2 years,3-5 years,Slightly dissatisfied,Slightly satisfied,66,Rarely,Good
+India,41,female,Some college,Computer science,Self-employed,Front-end developer,12+ years,Not applicable,Slightly dissatisfied,Very satisfied,80,Sometimes,Poor
+Germany,31,male,Masters degree,Other,Self-employed,Front-end developer,9-11 years,0-2 years,Very satisfied,Very satisfied,27,Rarely,Poor
+Germany,20,male,Some college,Mathematics,Self-employed,Back-end developer,3-5 years,3-5 years,Slightly satisfied,Very satisfied,25,Most of the time,Excellent
+Germany,58,female,Some college,Mathematics,Employed full-time,Front-end developer,3-5 years,3-5 years,Very satisfied,Very satisfied,58,Never,Poor
+Australia,37,female,Secondary school,Other,Employed full-time,Back-end developer,12+ years,3-5 years,Slightly satisfied,Slightly satisfied,28,Rarely,Excellent
+United Kingdom,40,male,Bachelors degree,Computer science,Not employed,Back-end developer,12+ years,Not applicable,Very dissatisfied,Very dissatisfied,30,Sometimes,Good
+Brazil,20,male,Some college,Mathematics,Employed part-time,Back-end developer,6-8 years,0-2 years,Slightly satisfied,Very dissatisfied,33,Never,Good
+Brazil,19,male,Bachelors degree,Engineering,Employed full-time,Back-end developer,6-8 years,12+ years,Very satisfied,Slightly satisfied,20,Never,Good
+Netherlands,29,male,Some college,Other,Employed part-time,Back-end developer,6-8 years,9-11 years,Neutral,Slightly dissatisfied,62,Sometimes,Excellent
+Netherlands,29,male,Secondary school,Engineering,Employed part-time,Front-end developer,0-2 years,3-5 years,Slightly dissatisfied,Neutral,30,Full-time remote,Fair
+Other,51,male,Bachelors degree,Engineering,Employed full-time,Back-end developer,6-8 years,3-5 years,Very dissatisfied,Slightly dissatisfied,67,Most of the time,Fair
+Spain,46,female,Secondary school,Engineering,Student,Data scientist,12+ years,Not applicable,Very satisfied,Very dissatisfied,73,Sometimes,Prefer not to say
+Netherlands,26,female,Masters degree,Other,Employed full-time,Front-end developer,12+ years,9-11 years,Slightly dissatisfied,Very satisfied,24,Never,Good
+Canada,37,male,Masters degree,Other,Employed part-time,Data scientist,0-2 years,0-2 years,Slightly satisfied,Very dissatisfied,51,Most of the time,Good
+Spain,52,female,Doctoral degree,Computer science,Self-employed,Full-stack developer,6-8 years,6-8 years,Neutral,Slightly dissatisfied,29,Never,Poor
+Netherlands,59,male,Secondary school,Computer science,Not employed,Data scientist,12+ years,0-2 years,Slightly satisfied,Very dissatisfied,67,Rarely,Excellent
+Germany,43,male,Masters degree,Mathematics,Self-employed,Other,3-5 years,0-2 years,Slightly dissatisfied,Neutral,32,Sometimes,Good
+India,52,male,Masters degree,Engineering,Employed part-time,Back-end developer,12+ years,0-2 years,Slightly satisfied,Very satisfied,41,Sometimes,Poor
+Brazil,53,male,Secondary school,Engineering,Self-employed,Other,6-8 years,12+ years,Neutral,Neutral,64,Never,Good
+France,50,female,Secondary school,Mathematics,Student,Other,6-8 years,6-8 years,Very dissatisfied,Neutral,78,Most of the time,Good
+Other,31,male,Doctoral degree,Information systems,Employed full-time,Full-stack developer,9-11 years,6-8 years,Slightly satisfied,Slightly dissatisfied,52,Most of the time,Good
+Spain,25,male,Some college,Computer science,Self-employed,Other,6-8 years,0-2 years,Very satisfied,Very satisfied,38,Sometimes,Fair
+United Kingdom,45,male,Some college,Computer science,Not employed,Data scientist,3-5 years,12+ years,Very dissatisfied,Slightly satisfied,47,Rarely,Good
+Canada,33,male,Masters degree,Other,Employed part-time,Data scientist,12+ years,9-11 years,Very dissatisfied,Slightly dissatisfied,33,Most of the time,Excellent
+India,55,male,Masters degree,Computer science,Student,Other,12+ years,3-5 years,Slightly dissatisfied,Slightly satisfied,20,Sometimes,Good
+United Kingdom,43,male,Secondary school,Mathematics,Not employed,Data scientist,3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,64,Sometimes,Good
+United Kingdom,31,male,Doctoral degree,Information systems,Employed part-time,Full-stack developer,9-11 years,6-8 years,Slightly satisfied,Very satisfied,66,Never,Excellent
+Netherlands,50,male,Doctoral degree,Information systems,Student,Other,12+ years,6-8 years,Very satisfied,Very satisfied,38,Full-time remote,Good
+India,28,male,Some college,Mathematics,Employed part-time,Data scientist,3-5 years,6-8 years,Neutral,Neutral,24,Full-time remote,Good
+United States,45,male,Some college,Engineering,Student,Other,3-5 years,9-11 years,Very dissatisfied,Neutral,66,Rarely,Good
+Australia,41,male,Doctoral degree,Information systems,Employed part-time,Full-stack developer,0-2 years,12+ years,Very satisfied,Slightly dissatisfied,49,Rarely,Good
+Germany,48,male,Some college,Other,Employed full-time,Other,12+ years,Not applicable,Slightly dissatisfied,Very dissatisfied,26,Full-time remote,Excellent
+Canada,64,male,Some college,Other,Employed full-time,Back-end developer,6-8 years,Not applicable,Very dissatisfied,Neutral,30,Sometimes,Excellent
+United States,19,male,Bachelors degree,Information systems,Not employed,Back-end developer,6-8 years,9-11 years,Slightly dissatisfied,Very satisfied,79,Most of the time,Good
+France,42,male,Some college,Information systems,Employed full-time,Full-stack developer,3-5 years,3-5 years,Neutral,Very dissatisfied,50,Rarely,Fair
+France,28,male,Doctoral degree,Information systems,Student,Data scientist,0-2 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,76,Most of the time,Good
+Germany,58,other,Bachelors degree,Mathematics,Student,Data scientist,9-11 years,0-2 years,Slightly satisfied,Very dissatisfied,39,Full-time remote,Fair
+Other,36,male,Bachelors degree,Engineering,Not employed,Front-end developer,9-11 years,0-2 years,Neutral,Very satisfied,70,Never,Poor
+Canada,53,female,Doctoral degree,Computer science,Self-employed,Back-end developer,9-11 years,9-11 years,Slightly dissatisfied,Slightly satisfied,21,Sometimes,Good
+Brazil,30,male,Some college,Computer science,Employed full-time,Full-stack developer,0-2 years,3-5 years,Neutral,Neutral,45,Rarely,Excellent
+United States,37,male,Secondary school,Mathematics,Student,Front-end developer,0-2 years,Not applicable,Slightly dissatisfied,Very satisfied,64,Most of the time,Fair
+United Kingdom,61,female,Some college,Information systems,Student,Back-end developer,0-2 years,0-2 years,Slightly dissatisfied,Very satisfied,32,Full-time remote,Good
+Canada,64,male,Some college,Information systems,Employed part-time,Back-end developer,12+ years,6-8 years,Slightly dissatisfied,Slightly dissatisfied,31,Full-time remote,Fair
+United Kingdom,60,male,Secondary school,Information systems,Self-employed,Front-end developer,9-11 years,Not applicable,Neutral,Very dissatisfied,55,Sometimes,Prefer not to say
+Canada,59,male,Some college,Mathematics,Not employed,Back-end developer,12+ years,Not applicable,Very dissatisfied,Very satisfied,39,Full-time remote,Good
+Australia,23,male,Secondary school,Mathematics,Employed full-time,Full-stack developer,6-8 years,6-8 years,Very dissatisfied,Slightly dissatisfied,39,Sometimes,Excellent
+Australia,26,male,Masters degree,Engineering,Not employed,Back-end developer,9-11 years,0-2 years,Slightly satisfied,Neutral,35,Rarely,Prefer not to say
+Netherlands,44,female,Masters degree,Computer science,Student,Front-end developer,0-2 years,12+ years,Very satisfied,Very dissatisfied,34,Full-time remote,Good
+United Kingdom,58,male,Bachelors degree,Information systems,Not employed,Full-stack developer,3-5 years,3-5 years,Very dissatisfied,Very satisfied,54,Full-time remote,Good
+Spain,39,other,Some college,Mathematics,Employed full-time,Full-stack developer,12+ years,3-5 years,Slightly dissatisfied,Neutral,60,Sometimes,Fair
+Germany,50,male,Doctoral degree,Engineering,Student,Data scientist,3-5 years,6-8 years,Very dissatisfied,Slightly dissatisfied,70,Rarely,Excellent
+Australia,35,male,Bachelors degree,Other,Not employed,Data scientist,0-2 years,0-2 years,Slightly satisfied,Neutral,57,Rarely,Fair
+Australia,47,male,Masters degree,Information systems,Self-employed,Front-end developer,9-11 years,6-8 years,Slightly satisfied,Very dissatisfied,62,Rarely,Excellent
+India,40,male,Doctoral degree,Mathematics,Not employed,Back-end developer,3-5 years,Not applicable,Very dissatisfied,Very satisfied,25,Sometimes,Prefer not to say
+Spain,28,male,Some college,Mathematics,Employed full-time,Back-end developer,9-11 years,0-2 years,Neutral,Slightly satisfied,33,Most of the time,Good
+United States,43,male,Some college,Other,Self-employed,Front-end developer,6-8 years,6-8 years,Slightly satisfied,Very satisfied,68,Never,Poor
+Brazil,34,male,Bachelors degree,Computer science,Self-employed,Other,3-5 years,0-2 years,Slightly satisfied,Slightly satisfied,43,Never,Excellent
+Germany,24,female,Some college,Information systems,Self-employed,Other,12+ years,12+ years,Slightly satisfied,Very dissatisfied,70,Most of the time,Good
+United Kingdom,40,male,Masters degree,Engineering,Self-employed,Back-end developer,3-5 years,12+ years,Slightly satisfied,Slightly satisfied,37,Sometimes,Excellent
+United States,62,male,Doctoral degree,Information systems,Employed full-time,Front-end developer,3-5 years,0-2 years,Very dissatisfied,Slightly dissatisfied,67,Most of the time,Excellent
+Netherlands,62,female,Doctoral degree,Information systems,Not employed,Data scientist,0-2 years,3-5 years,Very dissatisfied,Very satisfied,48,Never,Good
+Australia,54,male,Some college,Engineering,Student,Front-end developer,9-11 years,9-11 years,Slightly satisfied,Neutral,36,Sometimes,Excellent
+France,42,male,Bachelors degree,Mathematics,Not employed,Back-end developer,3-5 years,12+ years,Slightly satisfied,Neutral,43,Sometimes,Good
+United States,38,male,Bachelors degree,Information systems,Student,Full-stack developer,9-11 years,12+ years,Neutral,Very satisfied,66,Rarely,Good
+Australia,58,female,Secondary school,Computer science,Not employed,Other,0-2 years,6-8 years,Neutral,Slightly dissatisfied,29,Never,Fair
+France,29,male,Bachelors degree,Information systems,Employed part-time,Front-end developer,3-5 years,12+ years,Slightly dissatisfied,Slightly satisfied,65,Rarely,Good
+India,26,male,Secondary school,Computer science,Student,Full-stack developer,6-8 years,0-2 years,Slightly satisfied,Slightly satisfied,71,Most of the time,Excellent
+United States,49,male,Bachelors degree,Other,Employed full-time,Front-end developer,0-2 years,9-11 years,Slightly satisfied,Neutral,45,Rarely,Good
+United States,22,male,Some college,Engineering,Employed part-time,Full-stack developer,12+ years,12+ years,Slightly dissatisfied,Neutral,63,Rarely,Good
+Other,20,female,Masters degree,Mathematics,Not employed,Full-stack developer,9-11 years,6-8 years,Slightly dissatisfied,Slightly satisfied,50,Sometimes,Poor
+Spain,44,male,Bachelors degree,Information systems,Employed part-time,Data scientist,9-11 years,0-2 years,Slightly dissatisfied,Very dissatisfied,56,Full-time remote,Good
+Brazil,45,male,Some college,Other,Employed part-time,Full-stack developer,9-11 years,3-5 years,Slightly satisfied,Very dissatisfied,67,Most of the time,Good
+France,53,male,Bachelors degree,Mathematics,Employed part-time,Back-end developer,0-2 years,0-2 years,Neutral,Neutral,47,Most of the time,Good
+Brazil,58,female,Masters degree,Other,Self-employed,Front-end developer,12+ years,3-5 years,Slightly satisfied,Very dissatisfied,47,Full-time remote,Poor
+Other,31,male,Bachelors degree,Mathematics,Self-employed,Back-end developer,12+ years,0-2 years,Slightly dissatisfied,Very dissatisfied,78,Most of the time,Fair
+Brazil,26,male,Secondary school,Other,Not employed,Full-stack developer,3-5 years,Not applicable,Very dissatisfied,Neutral,41,Most of the time,Fair
+United Kingdom,48,female,Doctoral degree,Mathematics,Student,Data scientist,3-5 years,Not applicable,Slightly satisfied,Slightly dissatisfied,47,Full-time remote,Fair
+Brazil,47,male,Doctoral degree,Mathematics,Self-employed,Other,9-11 years,Not applicable,Slightly satisfied,Slightly satisfied,27,Never,Excellent
+Other,38,male,Secondary school,Other,Employed part-time,Other,0-2 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,74,Never,Fair
+Other,54,male,Masters degree,Other,Employed part-time,Front-end developer,3-5 years,3-5 years,Very dissatisfied,Very satisfied,67,Rarely,Fair
+Australia,39,female,Secondary school,Mathematics,Employed part-time,Full-stack developer,12+ years,3-5 years,Very dissatisfied,Very dissatisfied,54,Rarely,Good
+France,39,male,Bachelors degree,Engineering,Employed full-time,Front-end developer,3-5 years,0-2 years,Slightly dissatisfied,Neutral,47,Sometimes,Prefer not to say
+France,46,female,Secondary school,Computer science,Employed part-time,Other,6-8 years,6-8 years,Slightly satisfied,Slightly satisfied,44,Sometimes,Poor
+United States,65,male,Masters degree,Computer science,Student,Back-end developer,3-5 years,12+ years,Neutral,Very dissatisfied,77,Most of the time,Good
+United Kingdom,44,male,Secondary school,Computer science,Not employed,Full-stack developer,9-11 years,6-8 years,Neutral,Slightly satisfied,72,Most of the time,Excellent
+India,55,female,Some college,Computer science,Not employed,Back-end developer,3-5 years,Not applicable,Neutral,Very satisfied,33,Rarely,Fair
+Canada,58,male,Masters degree,Computer science,Employed full-time,Full-stack developer,12+ years,12+ years,Neutral,Slightly dissatisfied,35,Most of the time,Fair
+United States,29,male,Secondary school,Other,Employed part-time,Data scientist,9-11 years,3-5 years,Slightly satisfied,Slightly satisfied,80,Sometimes,Good
+Australia,61,female,Masters degree,Mathematics,Employed part-time,Back-end developer,6-8 years,3-5 years,Very dissatisfied,Neutral,22,Sometimes,Excellent
+Australia,49,female,Masters degree,Other,Employed full-time,Data scientist,12+ years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,68,Rarely,Good
+United States,23,male,Masters degree,Other,Employed full-time,Other,0-2 years,9-11 years,Slightly satisfied,Very dissatisfied,62,Never,Good
+India,61,male,Masters degree,Computer science,Student,Back-end developer,3-5 years,6-8 years,Slightly satisfied,Very dissatisfied,72,Rarely,Fair
+Brazil,20,female,Bachelors degree,Computer science,Employed part-time,Data scientist,3-5 years,12+ years,Slightly satisfied,Neutral,77,Most of the time,Fair
+France,58,male,Some college,Information systems,Employed full-time,Full-stack developer,0-2 years,9-11 years,Neutral,Slightly dissatisfied,27,Rarely,Poor
+Netherlands,54,male,Bachelors degree,Engineering,Student,Other,6-8 years,9-11 years,Slightly dissatisfied,Neutral,44,Never,Good
+Canada,46,female,Masters degree,Mathematics,Student,Back-end developer,3-5 years,3-5 years,Slightly satisfied,Slightly satisfied,55,Never,Good
+Other,60,male,Bachelors degree,Information systems,Employed full-time,Other,12+ years,Not applicable,Very satisfied,Very dissatisfied,50,Full-time remote,Good
+India,52,male,Masters degree,Engineering,Not employed,Data scientist,6-8 years,0-2 years,Slightly satisfied,Very dissatisfied,26,Rarely,Poor
+India,65,male,Masters degree,Mathematics,Employed part-time,Front-end developer,9-11 years,6-8 years,Neutral,Slightly dissatisfied,45,Most of the time,Good
+Netherlands,59,male,Bachelors degree,Information systems,Employed part-time,Front-end developer,9-11 years,Not applicable,Very satisfied,Very satisfied,25,Sometimes,Fair
+Australia,27,female,Some college,Engineering,Employed full-time,Full-stack developer,9-11 years,6-8 years,Very dissatisfied,Very satisfied,51,Sometimes,Poor
+India,32,male,Doctoral degree,Mathematics,Employed part-time,Full-stack developer,0-2 years,9-11 years,Slightly dissatisfied,Very dissatisfied,54,Never,Fair
+Netherlands,38,male,Bachelors degree,Information systems,Student,Other,12+ years,0-2 years,Very dissatisfied,Slightly satisfied,62,Full-time remote,Fair
+Germany,27,male,Some college,Computer science,Not employed,Data scientist,12+ years,Not applicable,Slightly dissatisfied,Slightly dissatisfied,45,Never,Fair
+India,54,male,Doctoral degree,Information systems,Employed full-time,Other,9-11 years,3-5 years,Slightly dissatisfied,Slightly satisfied,65,Rarely,Good
+India,46,female,Doctoral degree,Other,Employed full-time,Back-end developer,9-11 years,Not applicable,Very dissatisfied,Very satisfied,30,Never,Excellent
+Spain,51,male,Secondary school,Other,Not employed,Full-stack developer,6-8 years,12+ years,Very dissatisfied,Slightly satisfied,55,Never,Excellent
+Other,45,male,Secondary school,Mathematics,Employed full-time,Full-stack developer,12+ years,0-2 years,Neutral,Very satisfied,55,Never,Prefer not to say
+Germany,55,male,Secondary school,Other,Employed part-time,Full-stack developer,9-11 years,3-5 years,Neutral,Neutral,55,Most of the time,Good
+Other,45,male,Some college,Engineering,Employed full-time,Front-end developer,0-2 years,3-5 years,Very satisfied,Very dissatisfied,40,Most of the time,Excellent
+United Kingdom,34,male,Some college,Mathematics,Employed full-time,Other,6-8 years,0-2 years,Slightly dissatisfied,Very satisfied,31,Sometimes,Fair
+United Kingdom,37,male,Masters degree,Mathematics,Not employed,Data scientist,0-2 years,3-5 years,Very satisfied,Slightly dissatisfied,47,Rarely,Good
+Germany,40,female,Masters degree,Computer science,Employed part-time,Front-end developer,9-11 years,0-2 years,Slightly satisfied,Slightly satisfied,69,Full-time remote,Excellent
+France,48,other,Masters degree,Other,Employed full-time,Front-end developer,12+ years,3-5 years,Slightly dissatisfied,Slightly satisfied,41,Most of the time,Fair
+India,52,female,Secondary school,Engineering,Student,Front-end developer,3-5 years,6-8 years,Very satisfied,Slightly satisfied,51,Full-time remote,Fair
+Canada,32,male,Secondary school,Mathematics,Self-employed,Data scientist,0-2 years,12+ years,Slightly satisfied,Slightly dissatisfied,70,Most of the time,Fair
+Spain,30,male,Bachelors degree,Mathematics,Employed part-time,Other,9-11 years,3-5 years,Slightly satisfied,Very dissatisfied,75,Sometimes,Prefer not to say
+United States,32,female,Secondary school,Other,Not employed,Full-stack developer,9-11 years,0-2 years,Very satisfied,Slightly satisfied,50,Full-time remote,Good
+Other,30,male,Secondary school,Information systems,Employed part-time,Data scientist,0-2 years,6-8 years,Slightly satisfied,Very satisfied,36,Full-time remote,Excellent
+Brazil,65,male,Secondary school,Information systems,Employed full-time,Data scientist,0-2 years,0-2 years,Very satisfied,Very satisfied,41,Never,Good
+United Kingdom,64,male,Bachelors degree,Computer science,Not employed,Full-stack developer,3-5 years,0-2 years,Very satisfied,Very dissatisfied,21,Rarely,Excellent
+United Kingdom,56,male,Bachelors degree,Engineering,Student,Data scientist,6-8 years,0-2 years,Slightly satisfied,Neutral,80,Sometimes,Excellent
+United Kingdom,55,male,Secondary school,Computer science,Employed part-time,Front-end developer,0-2 years,3-5 years,Neutral,Neutral,28,Full-time remote,Good
+India,20,male,Some college,Engineering,Self-employed,Back-end developer,12+ years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,59,Rarely,Excellent
+Other,47,male,Masters degree,Mathematics,Self-employed,Front-end developer,6-8 years,0-2 years,Slightly dissatisfied,Very dissatisfied,28,Full-time remote,Good
+India,54,male,Bachelors degree,Engineering,Student,Other,12+ years,9-11 years,Very satisfied,Neutral,78,Rarely,Good
+India,48,male,Secondary school,Other,Employed part-time,Other,0-2 years,12+ years,Slightly dissatisfied,Very dissatisfied,62,Sometimes,Good
+Netherlands,59,male,Masters degree,Mathematics,Self-employed,Data scientist,9-11 years,12+ years,Very dissatisfied,Very satisfied,65,Most of the time,Good
+Brazil,26,male,Bachelors degree,Information systems,Employed full-time,Full-stack developer,9-11 years,12+ years,Slightly dissatisfied,Neutral,56,Sometimes,Good
+France,33,female,Secondary school,Mathematics,Employed full-time,Front-end developer,6-8 years,6-8 years,Very satisfied,Slightly satisfied,27,Sometimes,Prefer not to say
+Netherlands,35,female,Bachelors degree,Mathematics,Self-employed,Data scientist,6-8 years,12+ years,Neutral,Slightly dissatisfied,25,Rarely,Good
+Spain,36,female,Bachelors degree,Information systems,Employed full-time,Data scientist,9-11 years,0-2 years,Slightly dissatisfied,Very dissatisfied,47,Full-time remote,Excellent
+United Kingdom,20,male,Bachelors degree,Information systems,Not employed,Full-stack developer,6-8 years,3-5 years,Neutral,Very satisfied,31,Full-time remote,Good
+India,50,female,Masters degree,Computer science,Student,Back-end developer,9-11 years,3-5 years,Very dissatisfied,Very satisfied,60,Rarely,Good
+Netherlands,28,male,Bachelors degree,Mathematics,Student,Back-end developer,3-5 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,74,Never,Good
+Other,65,male,Secondary school,Engineering,Not employed,Back-end developer,12+ years,12+ years,Very dissatisfied,Neutral,67,Sometimes,Fair
+Brazil,57,other,Secondary school,Mathematics,Employed part-time,Data scientist,6-8 years,6-8 years,Neutral,Very dissatisfied,64,Never,Excellent
+India,48,male,Some college,Mathematics,Self-employed,Full-stack developer,12+ years,3-5 years,Neutral,Very satisfied,29,Never,Poor
+Spain,64,male,Bachelors degree,Mathematics,Not employed,Back-end developer,3-5 years,3-5 years,Slightly satisfied,Very dissatisfied,46,Full-time remote,Good
+Canada,33,male,Secondary school,Mathematics,Self-employed,Full-stack developer,9-11 years,12+ years,Neutral,Very satisfied,35,Sometimes,Excellent
+Canada,58,female,Bachelors degree,Engineering,Self-employed,Front-end developer,6-8 years,0-2 years,Slightly satisfied,Neutral,34,Rarely,Fair
+Other,45,male,Secondary school,Computer science,Employed full-time,Other,9-11 years,6-8 years,Very satisfied,Very dissatisfied,31,Never,Good
+Australia,42,male,Bachelors degree,Information systems,Self-employed,Front-end developer,9-11 years,Not applicable,Very dissatisfied,Slightly satisfied,61,Most of the time,Fair
+France,40,female,Secondary school,Engineering,Student,Data scientist,12+ years,9-11 years,Very dissatisfied,Slightly dissatisfied,31,Never,Good
+Other,54,male,Doctoral degree,Engineering,Employed part-time,Full-stack developer,0-2 years,3-5 years,Neutral,Slightly dissatisfied,58,Full-time remote,Fair
+United Kingdom,50,male,Bachelors degree,Computer science,Not employed,Data scientist,0-2 years,12+ years,Slightly dissatisfied,Very satisfied,76,Rarely,Good
+India,41,female,Masters degree,Engineering,Employed part-time,Back-end developer,12+ years,9-11 years,Slightly satisfied,Very dissatisfied,47,Rarely,Good
+Spain,40,male,Secondary school,Engineering,Self-employed,Back-end developer,12+ years,Not applicable,Slightly satisfied,Very dissatisfied,57,Most of the time,Good
+Canada,42,male,Some college,Engineering,Student,Back-end developer,0-2 years,3-5 years,Slightly satisfied,Very dissatisfied,40,Sometimes,Fair
+Spain,34,male,Masters degree,Engineering,Employed full-time,Full-stack developer,9-11 years,0-2 years,Slightly satisfied,Slightly satisfied,73,Never,Excellent
+Germany,38,male,Doctoral degree,Other,Not employed,Other,0-2 years,6-8 years,Very dissatisfied,Slightly dissatisfied,36,Most of the time,Good
+United Kingdom,45,male,Bachelors degree,Computer science,Self-employed,Front-end developer,6-8 years,3-5 years,Neutral,Very dissatisfied,48,Never,Prefer not to say
+Other,56,male,Secondary school,Other,Employed full-time,Back-end developer,12+ years,0-2 years,Slightly dissatisfied,Neutral,43,Sometimes,Good
+Spain,58,male,Doctoral degree,Information systems,Employed part-time,Data scientist,3-5 years,6-8 years,Very satisfied,Slightly dissatisfied,22,Sometimes,Fair
+Germany,28,male,Doctoral degree,Information systems,Not employed,Other,9-11 years,Not applicable,Very satisfied,Very dissatisfied,51,Rarely,Fair
+France,57,female,Bachelors degree,Other,Student,Front-end developer,9-11 years,6-8 years,Very satisfied,Neutral,69,Full-time remote,Good
+Netherlands,46,male,Masters degree,Information systems,Student,Other,0-2 years,12+ years,Slightly dissatisfied,Slightly satisfied,77,Most of the time,Good
+Spain,31,male,Some college,Mathematics,Self-employed,Full-stack developer,12+ years,Not applicable,Slightly dissatisfied,Very dissatisfied,76,Rarely,Good
+Germany,50,male,Bachelors degree,Mathematics,Student,Full-stack developer,3-5 years,6-8 years,Neutral,Slightly satisfied,24,Rarely,Good
+Australia,54,male,Secondary school,Computer science,Not employed,Data scientist,0-2 years,3-5 years,Slightly dissatisfied,Neutral,51,Sometimes,Fair
+India,58,male,Some college,Mathematics,Employed full-time,Back-end developer,0-2 years,Not applicable,Slightly satisfied,Slightly dissatisfied,36,Rarely,Good
+Spain,18,male,Doctoral degree,Other,Student,Front-end developer,3-5 years,9-11 years,Slightly satisfied,Slightly satisfied,35,Full-time remote,Excellent
+Other,48,male,Doctoral degree,Mathematics,Not employed,Other,6-8 years,6-8 years,Slightly satisfied,Slightly satisfied,67,Full-time remote,Fair
+Brazil,23,male,Some college,Other,Student,Full-stack developer,12+ years,Not applicable,Slightly satisfied,Neutral,71,Never,Good
+France,41,male,Bachelors degree,Computer science,Self-employed,Full-stack developer,3-5 years,3-5 years,Slightly dissatisfied,Neutral,79,Rarely,Poor
+Canada,61,male,Doctoral degree,Computer science,Student,Data scientist,12+ years,9-11 years,Neutral,Very satisfied,42,Full-time remote,Excellent
+United Kingdom,52,male,Bachelors degree,Other,Employed full-time,Back-end developer,0-2 years,9-11 years,Slightly satisfied,Very satisfied,65,Sometimes,Excellent
+Netherlands,20,other,Some college,Mathematics,Employed full-time,Full-stack developer,3-5 years,3-5 years,Slightly satisfied,Slightly dissatisfied,30,Full-time remote,Fair
+Spain,56,male,Doctoral degree,Information systems,Student,Full-stack developer,0-2 years,6-8 years,Slightly dissatisfied,Very satisfied,78,Most of the time,Fair
+India,53,male,Secondary school,Other,Self-employed,Full-stack developer,6-8 years,6-8 years,Very dissatisfied,Slightly dissatisfied,57,Never,Prefer not to say
+India,22,male,Some college,Mathematics,Not employed,Full-stack developer,6-8 years,9-11 years,Slightly satisfied,Very dissatisfied,32,Never,Good
+Brazil,20,male,Some college,Information systems,Employed part-time,Data scientist,6-8 years,Not applicable,Very dissatisfied,Very dissatisfied,43,Full-time remote,Good
+United States,28,male,Bachelors degree,Other,Employed full-time,Back-end developer,6-8 years,0-2 years,Slightly satisfied,Very satisfied,66,Never,Fair
+Netherlands,34,male,Doctoral degree,Other,Employed part-time,Other,3-5 years,12+ years,Slightly satisfied,Slightly satisfied,50,Never,Good
+United States,39,male,Some college,Computer science,Self-employed,Front-end developer,3-5 years,12+ years,Very satisfied,Very satisfied,33,Never,Good
+Netherlands,31,male,Some college,Computer science,Student,Other,0-2 years,3-5 years,Very satisfied,Slightly dissatisfied,75,Most of the time,Excellent
+Germany,24,male,Bachelors degree,Information systems,Student,Other,12+ years,12+ years,Slightly satisfied,Slightly satisfied,40,Rarely,Fair
+Brazil,44,male,Secondary school,Mathematics,Not employed,Data scientist,9-11 years,0-2 years,Slightly dissatisfied,Slightly satisfied,49,Most of the time,Good
+Canada,32,male,Masters degree,Computer science,Employed part-time,Other,0-2 years,3-5 years,Very dissatisfied,Slightly dissatisfied,35,Full-time remote,Fair
+Other,56,male,Doctoral degree,Information systems,Student,Full-stack developer,9-11 years,0-2 years,Very satisfied,Neutral,67,Sometimes,Good
+Germany,24,female,Bachelors degree,Information systems,Employed full-time,Data scientist,0-2 years,9-11 years,Neutral,Neutral,23,Most of the time,Poor
+United Kingdom,48,female,Secondary school,Engineering,Self-employed,Data scientist,6-8 years,3-5 years,Very satisfied,Slightly satisfied,59,Rarely,Good
+United States,32,female,Doctoral degree,Engineering,Employed full-time,Back-end developer,9-11 years,6-8 years,Slightly satisfied,Slightly satisfied,71,Never,Fair
+India,54,male,Secondary school,Engineering,Employed part-time,Data scientist,3-5 years,6-8 years,Very dissatisfied,Slightly dissatisfied,80,Rarely,Excellent
+France,30,other,Masters degree,Other,Employed full-time,Data scientist,3-5 years,3-5 years,Slightly dissatisfied,Very dissatisfied,73,Most of the time,Good
+Other,57,male,Bachelors degree,Computer science,Employed full-time,Other,9-11 years,0-2 years,Slightly dissatisfied,Neutral,54,Sometimes,Fair
+Other,20,male,Secondary school,Mathematics,Employed part-time,Data scientist,12+ years,6-8 years,Slightly dissatisfied,Very satisfied,63,Never,Fair
+Germany,36,male,Bachelors degree,Engineering,Student,Other,9-11 years,6-8 years,Very satisfied,Slightly dissatisfied,56,Sometimes,Excellent
+Australia,18,female,Some college,Computer science,Employed part-time,Front-end developer,3-5 years,3-5 years,Slightly dissatisfied,Very satisfied,47,Full-time remote,Prefer not to say
+Canada,55,male,Masters degree,Mathematics,Self-employed,Data scientist,6-8 years,3-5 years,Neutral,Very dissatisfied,72,Never,Fair
+France,51,male,Secondary school,Mathematics,Not employed,Data scientist,12+ years,Not applicable,Slightly dissatisfied,Neutral,47,Sometimes,Good
+Germany,54,female,Secondary school,Mathematics,Employed part-time,Other,3-5 years,Not applicable,Slightly dissatisfied,Slightly satisfied,61,Never,Fair
+Australia,38,male,Secondary school,Other,Student,Full-stack developer,3-5 years,3-5 years,Very satisfied,Very dissatisfied,51,Never,Poor
+Brazil,52,male,Masters degree,Engineering,Not employed,Front-end developer,12+ years,9-11 years,Very dissatisfied,Very dissatisfied,61,Never,Good
+Brazil,59,female,Masters degree,Computer science,Not employed,Front-end developer,0-2 years,9-11 years,Slightly satisfied,Very dissatisfied,69,Rarely,Good
+United Kingdom,34,female,Doctoral degree,Computer science,Student,Front-end developer,12+ years,12+ years,Very dissatisfied,Very dissatisfied,50,Never,Excellent
+Spain,30,male,Masters degree,Computer science,Student,Data scientist,3-5 years,Not applicable,Very dissatisfied,Neutral,51,Sometimes,Good
+Other,39,male,Masters degree,Other,Not employed,Full-stack developer,9-11 years,9-11 years,Neutral,Very dissatisfied,78,Most of the time,Good
+France,42,male,Doctoral degree,Computer science,Self-employed,Full-stack developer,9-11 years,3-5 years,Slightly dissatisfied,Very dissatisfied,34,Most of the time,Good
+Australia,22,male,Masters degree,Other,Self-employed,Back-end developer,9-11 years,0-2 years,Very satisfied,Slightly dissatisfied,60,Most of the time,Good
+United States,58,other,Bachelors degree,Computer science,Employed part-time,Front-end developer,3-5 years,3-5 years,Neutral,Slightly dissatisfied,50,Sometimes,Fair
+Brazil,18,male,Some college,Mathematics,Self-employed,Front-end developer,12+ years,3-5 years,Slightly satisfied,Slightly satisfied,74,Most of the time,Excellent
+Germany,44,male,Bachelors degree,Other,Student,Front-end developer,0-2 years,0-2 years,Very dissatisfied,Slightly dissatisfied,59,Full-time remote,Fair
+Australia,49,male,Bachelors degree,Engineering,Employed full-time,Front-end developer,0-2 years,6-8 years,Very dissatisfied,Very dissatisfied,59,Rarely,Good
+United States,35,male,Some college,Engineering,Self-employed,Full-stack developer,9-11 years,12+ years,Very satisfied,Very dissatisfied,68,Rarely,Good
+United Kingdom,30,male,Secondary school,Computer science,Student,Other,3-5 years,Not applicable,Slightly satisfied,Slightly dissatisfied,41,Sometimes,Good
+Australia,33,male,Masters degree,Computer science,Not employed,Back-end developer,9-11 years,0-2 years,Neutral,Neutral,72,Most of the time,Fair
+Canada,20,male,Doctoral degree,Engineering,Student,Front-end developer,9-11 years,9-11 years,Very satisfied,Slightly dissatisfied,44,Rarely,Fair
+Germany,41,male,Bachelors degree,Other,Self-employed,Other,6-8 years,0-2 years,Slightly dissatisfied,Neutral,22,Sometimes,Fair
+Other,21,female,Doctoral degree,Mathematics,Employed full-time,Full-stack developer,3-5 years,12+ years,Slightly dissatisfied,Very satisfied,43,Full-time remote,Good
+Other,62,female,Masters degree,Information systems,Employed full-time,Front-end developer,0-2 years,9-11 years,Very satisfied,Very dissatisfied,63,Most of the time,Good
+United Kingdom,47,male,Doctoral degree,Computer science,Not employed,Front-end developer,3-5 years,6-8 years,Slightly satisfied,Very dissatisfied,23,Most of the time,Good
+Canada,22,male,Some college,Other,Employed part-time,Full-stack developer,12+ years,3-5 years,Slightly satisfied,Very dissatisfied,76,Full-time remote,Excellent
+France,50,male,Bachelors degree,Computer science,Self-employed,Front-end developer,6-8 years,0-2 years,Very dissatisfied,Very dissatisfied,66,Sometimes,Fair
+Australia,21,other,Masters degree,Mathematics,Self-employed,Other,0-2 years,9-11 years,Neutral,Very satisfied,75,Rarely,Good
+United Kingdom,63,male,Doctoral degree,Information systems,Student,Other,0-2 years,0-2 years,Neutral,Very satisfied,64,Never,Good
+Brazil,56,male,Bachelors degree,Computer science,Employed part-time,Front-end developer,6-8 years,9-11 years,Slightly satisfied,Very dissatisfied,79,Never,Good
+Netherlands,25,male,Doctoral degree,Mathematics,Self-employed,Full-stack developer,6-8 years,9-11 years,Very satisfied,Very dissatisfied,21,Never,Excellent
+France,36,male,Doctoral degree,Other,Not employed,Back-end developer,3-5 years,9-11 years,Neutral,Very dissatisfied,79,Rarely,Fair
+Brazil,30,male,Doctoral degree,Engineering,Student,Back-end developer,6-8 years,0-2 years,Neutral,Slightly dissatisfied,53,Never,Prefer not to say
+United States,58,female,Masters degree,Mathematics,Student,Other,9-11 years,12+ years,Slightly satisfied,Slightly satisfied,66,Most of the time,Prefer not to say
+Netherlands,23,female,Doctoral degree,Other,Self-employed,Other,6-8 years,9-11 years,Slightly dissatisfied,Slightly dissatisfied,67,Never,Prefer not to say
+France,47,other,Doctoral degree,Other,Employed part-time,Data scientist,9-11 years,3-5 years,Very satisfied,Very dissatisfied,55,Most of the time,Fair
+Brazil,47,male,Masters degree,Mathematics,Employed full-time,Data scientist,0-2 years,9-11 years,Neutral,Slightly satisfied,73,Full-time remote,Fair
+United States,58,male,Masters degree,Mathematics,Employed part-time,Back-end developer,3-5 years,12+ years,Slightly satisfied,Slightly satisfied,32,Rarely,Good
+United States,62,female,Masters degree,Mathematics,Student,Data scientist,12+ years,9-11 years,Neutral,Slightly satisfied,65,Never,Good
+Spain,53,male,Masters degree,Other,Employed part-time,Other,0-2 years,Not applicable,Very dissatisfied,Slightly dissatisfied,47,Sometimes,Fair
+France,63,male,Some college,Computer science,Student,Front-end developer,3-5 years,9-11 years,Very satisfied,Slightly satisfied,25,Most of the time,Excellent
+United States,47,male,Bachelors degree,Information systems,Self-employed,Front-end developer,3-5 years,Not applicable,Neutral,Slightly satisfied,49,Most of the time,Fair
+United Kingdom,56,male,Masters degree,Computer science,Employed full-time,Front-end developer,3-5 years,12+ years,Slightly satisfied,Very dissatisfied,69,Full-time remote,Excellent
+United Kingdom,54,female,Doctoral degree,Information systems,Employed full-time,Other,0-2 years,Not applicable,Neutral,Very dissatisfied,53,Sometimes,Good
+Canada,22,male,Some college,Engineering,Student,Data scientist,12+ years,6-8 years,Very dissatisfied,Very dissatisfied,38,Most of the time,Good
+Australia,59,other,Secondary school,Information systems,Not employed,Full-stack developer,0-2 years,0-2 years,Slightly satisfied,Neutral,24,Never,Good
+Australia,21,male,Bachelors degree,Computer science,Not employed,Full-stack developer,12+ years,0-2 years,Slightly satisfied,Neutral,74,Sometimes,Excellent
+Spain,62,other,Bachelors degree,Computer science,Not employed,Full-stack developer,6-8 years,3-5 years,Neutral,Slightly satisfied,42,Full-time remote,Good
+France,54,male,Some college,Information systems,Student,Back-end developer,0-2 years,0-2 years,Very satisfied,Neutral,76,Most of the time,Fair
+United States,28,male,Doctoral degree,Other,Self-employed,Data scientist,3-5 years,9-11 years,Neutral,Slightly dissatisfied,21,Sometimes,Good
+India,52,male,Masters degree,Information systems,Employed part-time,Data scientist,6-8 years,0-2 years,Slightly satisfied,Very dissatisfied,21,Most of the time,Excellent
+India,57,female,Some college,Computer science,Not employed,Full-stack developer,3-5 years,6-8 years,Very satisfied,Neutral,70,Full-time remote,Fair
+Other,29,female,Doctoral degree,Engineering,Self-employed,Data scientist,0-2 years,Not applicable,Very dissatisfied,Very satisfied,72,Full-time remote,Excellent
+India,58,male,Doctoral degree,Computer science,Employed full-time,Front-end developer,6-8 years,Not applicable,Neutral,Slightly satisfied,22,Rarely,Good
+India,21,male,Masters degree,Engineering,Employed full-time,Full-stack developer,0-2 years,Not applicable,Slightly satisfied,Very dissatisfied,63,Never,Prefer not to say
+India,42,male,Doctoral degree,Information systems,Student,Other,9-11 years,12+ years,Slightly satisfied,Very satisfied,33,Full-time remote,Fair
+Netherlands,34,male,Secondary school,Engineering,Self-employed,Front-end developer,3-5 years,Not applicable,Slightly satisfied,Neutral,80,Most of the time,Prefer not to say
+Netherlands,39,male,Masters degree,Engineering,Student,Full-stack developer,0-2 years,9-11 years,Slightly dissatisfied,Slightly dissatisfied,50,Sometimes,Excellent
+France,50,male,Bachelors degree,Engineering,Employed full-time,Front-end developer,6-8 years,3-5 years,Slightly dissatisfied,Very satisfied,51,Sometimes,Fair
+India,60,male,Bachelors degree,Information systems,Employed full-time,Data scientist,12+ years,12+ years,Slightly satisfied,Very dissatisfied,42,Most of the time,Poor
+Other,31,female,Secondary school,Mathematics,Employed full-time,Other,6-8 years,Not applicable,Slightly dissatisfied,Neutral,75,Rarely,Fair
+Spain,23,female,Masters degree,Information systems,Not employed,Full-stack developer,3-5 years,3-5 years,Very satisfied,Neutral,35,Most of the time,Good
+United States,23,male,Bachelors degree,Engineering,Not employed,Full-stack developer,9-11 years,0-2 years,Slightly satisfied,Very dissatisfied,56,Rarely,Excellent
+United States,34,male,Masters degree,Engineering,Self-employed,Front-end developer,3-5 years,Not applicable,Very satisfied,Neutral,77,Full-time remote,Good
+France,24,male,Secondary school,Mathematics,Employed part-time,Full-stack developer,12+ years,6-8 years,Very satisfied,Slightly dissatisfied,40,Rarely,Excellent
+Australia,21,male,Masters degree,Computer science,Employed full-time,Full-stack developer,6-8 years,0-2 years,Very satisfied,Very dissatisfied,53,Never,Good
+Other,59,male,Secondary school,Engineering,Not employed,Data scientist,12+ years,0-2 years,Slightly satisfied,Very dissatisfied,34,Never,Excellent
+Spain,62,female,Some college,Information systems,Student,Other,6-8 years,9-11 years,Slightly dissatisfied,Neutral,79,Never,Fair
+Spain,31,male,Doctoral degree,Computer science,Not employed,Full-stack developer,3-5 years,Not applicable,Slightly dissatisfied,Slightly satisfied,79,Full-time remote,Good
+United Kingdom,50,male,Masters degree,Information systems,Student,Full-stack developer,12+ years,9-11 years,Neutral,Very dissatisfied,40,Never,Good
+Canada,47,male,Bachelors degree,Engineering,Employed full-time,Back-end developer,12+ years,3-5 years,Very dissatisfied,Slightly satisfied,31,Rarely,Poor
+Australia,47,other,Doctoral degree,Engineering,Employed full-time,Front-end developer,3-5 years,Not applicable,Neutral,Slightly dissatisfied,65,Never,Excellent
+United States,26,male,Some college,Information systems,Employed full-time,Data scientist,9-11 years,9-11 years,Slightly dissatisfied,Neutral,43,Rarely,Poor
+Brazil,42,female,Bachelors degree,Computer science,Employed part-time,Front-end developer,9-11 years,0-2 years,Very dissatisfied,Very satisfied,73,Rarely,Fair
+France,55,other,Bachelors degree,Information systems,Self-employed,Full-stack developer,9-11 years,9-11 years,Slightly dissatisfied,Very dissatisfied,44,Most of the time,Excellent
+United Kingdom,19,female,Masters degree,Engineering,Self-employed,Back-end developer,0-2 years,9-11 years,Very satisfied,Very dissatisfied,44,Full-time remote,Fair
+France,59,male,Bachelors degree,Other,Employed part-time,Back-end developer,3-5 years,6-8 years,Slightly satisfied,Slightly dissatisfied,34,Full-time remote,Good
+India,27,male,Doctoral degree,Computer science,Not employed,Data scientist,6-8 years,3-5 years,Neutral,Neutral,37,Most of the time,Poor
+Canada,34,male,Bachelors degree,Other,Student,Back-end developer,6-8 years,9-11 years,Very dissatisfied,Neutral,51,Sometimes,Good
+Other,35,female,Masters degree,Other,Self-employed,Back-end developer,6-8 years,12+ years,Very satisfied,Very dissatisfied,62,Most of the time,Good
+India,25,other,Doctoral degree,Information systems,Employed full-time,Back-end developer,0-2 years,3-5 years,Slightly dissatisfied,Very dissatisfied,34,Sometimes,Good
+Australia,47,male,Bachelors degree,Information systems,Employed full-time,Other,0-2 years,0-2 years,Slightly dissatisfied,Slightly satisfied,68,Never,Good
+Netherlands,31,male,Some college,Other,Not employed,Back-end developer,6-8 years,12+ years,Slightly dissatisfied,Very dissatisfied,39,Most of the time,Good
+United Kingdom,42,female,Some college,Engineering,Student,Back-end developer,0-2 years,0-2 years,Very dissatisfied,Slightly satisfied,74,Never,Good
+Canada,34,male,Doctoral degree,Engineering,Employed full-time,Front-end developer,0-2 years,Not applicable,Slightly dissatisfied,Slightly satisfied,41,Never,Prefer not to say
+Netherlands,20,male,Secondary school,Other,Self-employed,Back-end developer,9-11 years,6-8 years,Very satisfied,Slightly dissatisfied,49,Never,Fair
+Netherlands,20,female,Masters degree,Computer science,Employed full-time,Full-stack developer,0-2 years,0-2 years,Neutral,Very satisfied,51,Most of the time,Good
+Germany,44,male,Doctoral degree,Computer science,Employed part-time,Back-end developer,3-5 years,9-11 years,Slightly dissatisfied,Very satisfied,39,Rarely,Excellent
+Other,18,male,Doctoral degree,Computer science,Self-employed,Data scientist,9-11 years,6-8 years,Slightly satisfied,Slightly dissatisfied,36,Sometimes,Good
+United Kingdom,50,male,Secondary school,Mathematics,Self-employed,Data scientist,6-8 years,Not applicable,Slightly dissatisfied,Neutral,52,Rarely,Good
+Germany,63,male,Secondary school,Computer science,Self-employed,Other,3-5 years,12+ years,Very dissatisfied,Slightly dissatisfied,20,Rarely,Good
+Germany,21,male,Masters degree,Other,Self-employed,Front-end developer,12+ years,9-11 years,Neutral,Slightly satisfied,32,Never,Prefer not to say
+India,46,male,Some college,Engineering,Not employed,Other,0-2 years,6-8 years,Neutral,Neutral,55,Full-time remote,Good
+United States,19,male,Some college,Information systems,Self-employed,Data scientist,3-5 years,Not applicable,Slightly satisfied,Slightly satisfied,22,Full-time remote,Fair
+Brazil,35,female,Doctoral degree,Engineering,Employed part-time,Full-stack developer,12+ years,3-5 years,Very satisfied,Very satisfied,49,Full-time remote,Good
+United Kingdom,53,male,Bachelors degree,Information systems,Employed part-time,Front-end developer,12+ years,Not applicable,Slightly satisfied,Very dissatisfied,43,Rarely,Fair
+India,52,male,Some college,Other,Employed part-time,Back-end developer,3-5 years,6-8 years,Very dissatisfied,Very satisfied,74,Sometimes,Fair
+United Kingdom,24,male,Secondary school,Computer science,Student,Other,12+ years,9-11 years,Slightly satisfied,Slightly satisfied,61,Sometimes,Fair
+United States,29,male,Some college,Information systems,Not employed,Data scientist,9-11 years,Not applicable,Very satisfied,Slightly satisfied,46,Never,Fair
+United Kingdom,62,male,Some college,Mathematics,Employed part-time,Other,12+ years,Not applicable,Slightly dissatisfied,Neutral,65,Sometimes,Fair
+Other,58,male,Bachelors degree,Information systems,Not employed,Back-end developer,6-8 years,12+ years,Very satisfied,Very satisfied,80,Full-time remote,Fair
+Canada,29,male,Masters degree,Computer science,Not employed,Back-end developer,0-2 years,Not applicable,Neutral,Slightly satisfied,61,Full-time remote,Excellent
+Canada,59,female,Doctoral degree,Information systems,Self-employed,Back-end developer,12+ years,3-5 years,Very dissatisfied,Slightly dissatisfied,63,Most of the time,Excellent
+Germany,48,female,Bachelors degree,Other,Employed full-time,Data scientist,3-5 years,0-2 years,Very satisfied,Slightly satisfied,37,Rarely,Fair
+Australia,59,male,Doctoral degree,Mathematics,Not employed,Other,9-11 years,3-5 years,Neutral,Very dissatisfied,76,Full-time remote,Fair
+Brazil,37,male,Bachelors degree,Engineering,Employed part-time,Data scientist,3-5 years,3-5 years,Neutral,Slightly satisfied,61,Never,Fair
+Germany,53,female,Some college,Mathematics,Self-employed,Back-end developer,12+ years,0-2 years,Slightly satisfied,Slightly dissatisfied,20,Rarely,Fair
+India,54,female,Some college,Information systems,Student,Other,9-11 years,0-2 years,Very dissatisfied,Neutral,71,Rarely,Fair
+Australia,61,male,Secondary school,Mathematics,Not employed,Other,12+ years,3-5 years,Neutral,Neutral,48,Rarely,Fair
+Canada,39,male,Doctoral degree,Information systems,Student,Full-stack developer,9-11 years,6-8 years,Slightly dissatisfied,Very dissatisfied,29,Most of the time,Good
+India,20,male,Masters degree,Engineering,Employed part-time,Other,9-11 years,9-11 years,Slightly satisfied,Very satisfied,76,Never,Fair
+Other,44,female,Masters degree,Mathematics,Not employed,Data scientist,9-11 years,3-5 years,Slightly satisfied,Very satisfied,68,Rarely,Fair
+Canada,27,male,Some college,Mathematics,Employed part-time,Back-end developer,0-2 years,6-8 years,Neutral,Very dissatisfied,23,Never,Good
+Germany,53,male,Doctoral degree,Mathematics,Student,Data scientist,12+ years,Not applicable,Slightly dissatisfied,Very dissatisfied,45,Full-time remote,Fair
+India,65,female,Bachelors degree,Other,Student,Front-end developer,6-8 years,0-2 years,Slightly satisfied,Very satisfied,60,Full-time remote,Good
+United Kingdom,38,male,Doctoral degree,Other,Student,Front-end developer,9-11 years,6-8 years,Neutral,Very dissatisfied,41,Rarely,Fair
+Brazil,33,male,Some college,Other,Not employed,Front-end developer,3-5 years,3-5 years,Slightly dissatisfied,Neutral,60,Sometimes,Good
+France,20,male,Doctoral degree,Computer science,Student,Data scientist,3-5 years,9-11 years,Very satisfied,Slightly satisfied,57,Sometimes,Poor
+Germany,20,male,Some college,Computer science,Employed part-time,Data scientist,12+ years,9-11 years,Slightly dissatisfied,Neutral,55,Sometimes,Poor
+Germany,57,male,Masters degree,Computer science,Self-employed,Front-end developer,3-5 years,Not applicable,Neutral,Slightly dissatisfied,75,Most of the time,Fair
+Germany,19,male,Some college,Mathematics,Self-employed,Back-end developer,9-11 years,12+ years,Very satisfied,Neutral,77,Rarely,Fair
+Spain,47,male,Some college,Engineering,Employed full-time,Front-end developer,3-5 years,9-11 years,Neutral,Neutral,37,Most of the time,Good
+United States,54,male,Bachelors degree,Other,Employed full-time,Other,0-2 years,9-11 years,Very satisfied,Very dissatisfied,59,Sometimes,Poor
+Australia,47,male,Bachelors degree,Mathematics,Employed full-time,Front-end developer,9-11 years,3-5 years,Neutral,Very satisfied,43,Most of the time,Poor
+Other,56,female,Doctoral degree,Engineering,Employed full-time,Back-end developer,3-5 years,0-2 years,Slightly dissatisfied,Very satisfied,51,Most of the time,Fair
+Canada,58,female,Doctoral degree,Computer science,Employed part-time,Data scientist,9-11 years,0-2 years,Very satisfied,Neutral,74,Sometimes,Prefer not to say
+Other,56,male,Secondary school,Information systems,Employed part-time,Front-end developer,12+ years,Not applicable,Neutral,Very dissatisfied,23,Sometimes,Good
+Canada,58,male,Some college,Other,Not employed,Data scientist,9-11 years,3-5 years,Very satisfied,Slightly satisfied,29,Sometimes,Excellent
+United States,26,male,Some college,Mathematics,Employed part-time,Front-end developer,9-11 years,12+ years,Slightly dissatisfied,Very satisfied,39,Rarely,Fair
+Spain,26,male,Masters degree,Engineering,Not employed,Front-end developer,0-2 years,3-5 years,Very satisfied,Very dissatisfied,40,Never,Good
+Other,43,other,Some college,Engineering,Student,Front-end developer,6-8 years,9-11 years,Very satisfied,Very satisfied,71,Never,Poor
+United Kingdom,65,other,Secondary school,Engineering,Employed part-time,Full-stack developer,0-2 years,Not applicable,Very satisfied,Very dissatisfied,70,Full-time remote,Good
+France,28,female,Bachelors degree,Engineering,Student,Other,3-5 years,6-8 years,Slightly dissatisfied,Very dissatisfied,66,Rarely,Fair
+Germany,40,other,Doctoral degree,Computer science,Employed full-time,Back-end developer,9-11 years,0-2 years,Very dissatisfied,Slightly satisfied,61,Rarely,Good
+Canada,65,male,Secondary school,Other,Employed full-time,Data scientist,12+ years,12+ years,Slightly dissatisfied,Slightly dissatisfied,69,Most of the time,Excellent
+Spain,44,male,Masters degree,Information systems,Student,Data scientist,9-11 years,Not applicable,Very satisfied,Very satisfied,68,Most of the time,Poor
+United States,18,male,Masters degree,Mathematics,Employed full-time,Full-stack developer,9-11 years,12+ years,Very dissatisfied,Slightly dissatisfied,52,Sometimes,Fair
+Brazil,56,male,Doctoral degree,Engineering,Employed part-time,Back-end developer,6-8 years,6-8 years,Very dissatisfied,Slightly satisfied,64,Never,Good
+Netherlands,37,male,Doctoral degree,Information systems,Student,Data scientist,12+ years,0-2 years,Slightly satisfied,Neutral,63,Sometimes,Fair
+Germany,51,male,Doctoral degree,Engineering,Not employed,Back-end developer,12+ years,6-8 years,Neutral,Slightly satisfied,77,Sometimes,Poor
+Australia,59,female,Masters degree,Other,Not employed,Other,12+ years,3-5 years,Slightly dissatisfied,Very dissatisfied,45,Full-time remote,Fair
+Australia,40,male,Masters degree,Other,Not employed,Data scientist,0-2 years,9-11 years,Slightly satisfied,Very dissatisfied,35,Rarely,Fair
+Australia,23,male,Secondary school,Computer science,Not employed,Data scientist,12+ years,12+ years,Slightly dissatisfied,Slightly satisfied,47,Sometimes,Good
+United Kingdom,62,male,Masters degree,Computer science,Self-employed,Other,6-8 years,9-11 years,Very satisfied,Slightly dissatisfied,68,Never,Fair
+Canada,38,male,Secondary school,Other,Employed part-time,Front-end developer,0-2 years,6-8 years,Slightly satisfied,Neutral,58,Rarely,Good
+Germany,60,other,Some college,Computer science,Employed part-time,Other,3-5 years,12+ years,Very dissatisfied,Slightly dissatisfied,53,Sometimes,Good
+Canada,46,female,Some college,Computer science,Employed part-time,Full-stack developer,6-8 years,0-2 years,Very dissatisfied,Neutral,50,Full-time remote,Good
+France,34,female,Masters degree,Information systems,Not employed,Data scientist,6-8 years,12+ years,Neutral,Very dissatisfied,72,Sometimes,Good
+Netherlands,62,male,Masters degree,Other,Self-employed,Data scientist,3-5 years,6-8 years,Very dissatisfied,Neutral,76,Most of the time,Good
+Spain,37,female,Doctoral degree,Computer science,Employed full-time,Other,9-11 years,12+ years,Slightly satisfied,Slightly satisfied,56,Most of the time,Fair
+Spain,63,female,Bachelors degree,Computer science,Employed full-time,Full-stack developer,6-8 years,0-2 years,Very dissatisfied,Very satisfied,39,Full-time remote,Fair
+Netherlands,60,female,Secondary school,Engineering,Student,Front-end developer,6-8 years,6-8 years,Very satisfied,Neutral,59,Sometimes,Excellent
+Australia,33,male,Some college,Engineering,Student,Other,9-11 years,Not applicable,Very dissatisfied,Very satisfied,77,Full-time remote,Excellent
+United States,22,male,Some college,Mathematics,Employed part-time,Front-end developer,9-11 years,9-11 years,Slightly dissatisfied,Neutral,64,Most of the time,Poor
+United Kingdom,30,female,Bachelors degree,Mathematics,Student,Other,0-2 years,0-2 years,Slightly dissatisfied,Slightly dissatisfied,63,Most of the time,Good
+Brazil,31,male,Some college,Other,Employed full-time,Other,0-2 years,6-8 years,Slightly satisfied,Slightly satisfied,55,Never,Good
+Netherlands,29,female,Bachelors degree,Computer science,Not employed,Back-end developer,0-2 years,9-11 years,Very satisfied,Very satisfied,40,Rarely,Poor
+India,21,male,Bachelors degree,Engineering,Self-employed,Data scientist,9-11 years,9-11 years,Very dissatisfied,Neutral,77,Most of the time,Fair
+France,43,female,Masters degree,Engineering,Employed part-time,Front-end developer,0-2 years,9-11 years,Neutral,Very dissatisfied,64,Full-time remote,Good
+Australia,52,male,Some college,Computer science,Employed full-time,Data scientist,9-11 years,0-2 years,Neutral,Very satisfied,55,Most of the time,Good
+Australia,49,male,Masters degree,Computer science,Employed full-time,Other,0-2 years,6-8 years,Very dissatisfied,Very dissatisfied,33,Most of the time,Fair
+Australia,38,male,Secondary school,Computer science,Student,Data scientist,9-11 years,0-2 years,Very satisfied,Very dissatisfied,20,Never,Excellent
+United Kingdom,57,male,Doctoral degree,Information systems,Not employed,Front-end developer,0-2 years,0-2 years,Very dissatisfied,Very dissatisfied,61,Rarely,Excellent
+Other,45,male,Secondary school,Other,Not employed,Back-end developer,9-11 years,0-2 years,Very dissatisfied,Slightly dissatisfied,32,Most of the time,Good
+Australia,63,male,Bachelors degree,Computer science,Not employed,Other,0-2 years,0-2 years,Very satisfied,Very satisfied,36,Full-time remote,Excellent
+Canada,64,male,Doctoral degree,Mathematics,Not employed,Data scientist,9-11 years,3-5 years,Slightly dissatisfied,Neutral,59,Most of the time,Fair
+Germany,35,male,Secondary school,Other,Employed full-time,Full-stack developer,9-11 years,6-8 years,Very dissatisfied,Very dissatisfied,75,Sometimes,Fair
+Netherlands,28,male,Masters degree,Other,Employed full-time,Other,0-2 years,Not applicable,Very dissatisfied,Very dissatisfied,65,Never,Prefer not to say
+Netherlands,31,male,Doctoral degree,Other,Employed part-time,Data scientist,12+ years,9-11 years,Neutral,Very dissatisfied,20,Full-time remote,Excellent
+Brazil,26,male,Some college,Computer science,Not employed,Data scientist,0-2 years,9-11 years,Neutral,Very satisfied,22,Rarely,Excellent
+Netherlands,33,male,Masters degree,Computer science,Student,Back-end developer,3-5 years,12+ years,Very satisfied,Slightly satisfied,46,Most of the time,Fair
+Netherlands,49,male,Some college,Information systems,Not employed,Other,12+ years,12+ years,Slightly dissatisfied,Very satisfied,39,Never,Good
+Brazil,58,male,Secondary school,Engineering,Student,Front-end developer,6-8 years,Not applicable,Very satisfied,Slightly satisfied,80,Sometimes,Excellent
+United States,47,male,Secondary school,Information systems,Not employed,Other,3-5 years,0-2 years,Slightly dissatisfied,Neutral,23,Sometimes,Good
+Canada,18,other,Masters degree,Information systems,Self-employed,Back-end developer,12+ years,0-2 years,Slightly satisfied,Slightly satisfied,35,Never,Fair
+United States,29,male,Some college,Other,Self-employed,Other,6-8 years,6-8 years,Neutral,Slightly dissatisfied,22,Most of the time,Poor
+United States,18,male,Some college,Engineering,Employed part-time,Data scientist,0-2 years,9-11 years,Very dissatisfied,Very satisfied,79,Full-time remote,Good
+Spain,49,male,Doctoral degree,Mathematics,Not employed,Back-end developer,9-11 years,6-8 years,Very satisfied,Neutral,21,Full-time remote,Good
+United States,47,male,Bachelors degree,Engineering,Employed part-time,Full-stack developer,0-2 years,9-11 years,Slightly satisfied,Slightly satisfied,60,Full-time remote,Fair
+Brazil,46,male,Some college,Computer science,Not employed,Full-stack developer,0-2 years,0-2 years,Slightly dissatisfied,Very dissatisfied,46,Never,Good
+Other,52,female,Some college,Other,Not employed,Data scientist,6-8 years,3-5 years,Neutral,Very dissatisfied,55,Rarely,Fair
+Spain,24,female,Some college,Computer science,Self-employed,Full-stack developer,6-8 years,12+ years,Slightly dissatisfied,Very satisfied,38,Sometimes,Excellent
+Germany,27,female,Secondary school,Computer science,Self-employed,Front-end developer,9-11 years,6-8 years,Slightly satisfied,Very dissatisfied,42,Never,Poor
+Australia,26,male,Some college,Other,Not employed,Front-end developer,9-11 years,3-5 years,Neutral,Slightly dissatisfied,60,Sometimes,Fair
+Netherlands,27,other,Secondary school,Computer science,Employed full-time,Front-end developer,9-11 years,9-11 years,Neutral,Very satisfied,62,Rarely,Poor
+Netherlands,43,male,Secondary school,Engineering,Employed full-time,Back-end developer,3-5 years,12+ years,Very satisfied,Very dissatisfied,24,Most of the time,Excellent
+United States,33,male,Some college,Mathematics,Employed full-time,Back-end developer,3-5 years,9-11 years,Neutral,Very dissatisfied,54,Rarely,Excellent
+Spain,48,male,Secondary school,Other,Self-employed,Other,6-8 years,3-5 years,Slightly dissatisfied,Neutral,38,Full-time remote,Good
+Australia,39,male,Bachelors degree,Mathematics,Employed part-time,Data scientist,12+ years,Not applicable,Neutral,Slightly satisfied,41,Full-time remote,Good
+Brazil,62,other,Bachelors degree,Engineering,Student,Front-end developer,3-5 years,6-8 years,Slightly satisfied,Very satisfied,63,Rarely,Good
+India,57,male,Doctoral degree,Information systems,Self-employed,Other,3-5 years,Not applicable,Neutral,Very satisfied,45,Rarely,Good
+Germany,26,male,Some college,Mathematics,Self-employed,Other,12+ years,3-5 years,Slightly dissatisfied,Neutral,28,Full-time remote,Good
+Netherlands,49,male,Some college,Other,Student,Back-end developer,9-11 years,0-2 years,Neutral,Slightly satisfied,75,Full-time remote,Excellent
+United Kingdom,43,male,Some college,Mathematics,Student,Back-end developer,3-5 years,6-8 years,Slightly satisfied,Slightly dissatisfied,32,Never,Good
+Netherlands,55,female,Secondary school,Computer science,Employed part-time,Full-stack developer,3-5 years,3-5 years,Neutral,Very dissatisfied,30,Sometimes,Fair
+Canada,27,male,Masters degree,Computer science,Employed full-time,Front-end developer,9-11 years,12+ years,Very satisfied,Slightly dissatisfied,45,Most of the time,Good
+United Kingdom,38,female,Masters degree,Other,Employed full-time,Full-stack developer,12+ years,12+ years,Very satisfied,Slightly dissatisfied,77,Never,Good
+Spain,46,male,Secondary school,Engineering,Employed full-time,Front-end developer,3-5 years,12+ years,Neutral,Neutral,52,Never,Poor
+Spain,40,male,Masters degree,Information systems,Employed full-time,Back-end developer,12+ years,Not applicable,Very dissatisfied,Neutral,49,Rarely,Fair
+India,24,male,Some college,Engineering,Employed full-time,Full-stack developer,6-8 years,0-2 years,Very dissatisfied,Slightly dissatisfied,71,Never,Fair
+Netherlands,37,male,Bachelors degree,Other,Employed full-time,Front-end developer,0-2 years,0-2 years,Very satisfied,Slightly dissatisfied,72,Full-time remote,Good
+Australia,43,male,Some college,Information systems,Not employed,Other,12+ years,Not applicable,Slightly satisfied,Very dissatisfied,44,Full-time remote,Excellent
+Spain,40,male,Doctoral degree,Engineering,Not employed,Front-end developer,0-2 years,6-8 years,Neutral,Very dissatisfied,39,Full-time remote,Excellent
+India,56,male,Secondary school,Other,Employed full-time,Back-end developer,3-5 years,3-5 years,Very satisfied,Slightly dissatisfied,71,Most of the time,Poor
+Spain,43,female,Bachelors degree,Information systems,Self-employed,Front-end developer,9-11 years,9-11 years,Neutral,Slightly dissatisfied,30,Never,Fair
+Spain,59,other,Masters degree,Computer science,Student,Data scientist,3-5 years,12+ years,Very satisfied,Very dissatisfied,24,Rarely,Good
+United Kingdom,32,male,Secondary school,Information systems,Employed part-time,Front-end developer,9-11 years,9-11 years,Slightly satisfied,Neutral,68,Full-time remote,Good
+France,55,male,Some college,Computer science,Self-employed,Front-end developer,0-2 years,12+ years,Slightly satisfied,Slightly satisfied,42,Rarely,Good
+Other,44,male,Doctoral degree,Engineering,Student,Full-stack developer,6-8 years,12+ years,Very dissatisfied,Very satisfied,24,Sometimes,Poor
+United States,31,male,Doctoral degree,Other,Student,Front-end developer,3-5 years,0-2 years,Very satisfied,Very satisfied,55,Most of the time,Good
+Canada,43,male,Secondary school,Information systems,Employed part-time,Front-end developer,9-11 years,Not applicable,Very satisfied,Slightly satisfied,38,Most of the time,Excellent
+India,59,male,Masters degree,Information systems,Self-employed,Other,3-5 years,3-5 years,Slightly dissatisfied,Slightly satisfied,58,Full-time remote,Good
+India,65,female,Doctoral degree,Computer science,Employed part-time,Data scientist,3-5 years,9-11 years,Slightly dissatisfied,Neutral,37,Rarely,Good
+Spain,41,female,Doctoral degree,Engineering,Not employed,Front-end developer,6-8 years,12+ years,Very dissatisfied,Very satisfied,74,Sometimes,Good
+Australia,53,male,Some college,Mathematics,Employed full-time,Full-stack developer,3-5 years,Not applicable,Slightly dissatisfied,Neutral,43,Sometimes,Excellent
+France,61,male,Some college,Mathematics,Employed full-time,Other,3-5 years,12+ years,Very satisfied,Neutral,69,Most of the time,Poor
+Netherlands,31,male,Bachelors degree,Computer science,Employed full-time,Other,0-2 years,6-8 years,Slightly satisfied,Slightly dissatisfied,50,Rarely,Fair
+Germany,18,female,Secondary school,Engineering,Employed full-time,Front-end developer,12+ years,0-2 years,Slightly satisfied,Very satisfied,38,Most of the time,Poor
+Other,21,male,Bachelors degree,Computer science,Not employed,Other,9-11 years,0-2 years,Very dissatisfied,Very satisfied,26,Most of the time,Poor
+Netherlands,27,male,Some college,Engineering,Student,Back-end developer,6-8 years,12+ years,Slightly dissatisfied,Slightly satisfied,68,Sometimes,Good
+Brazil,38,male,Masters degree,Mathematics,Self-employed,Front-end developer,0-2 years,12+ years,Slightly dissatisfied,Very dissatisfied,34,Most of the time,Fair
+Canada,65,male,Masters degree,Computer science,Self-employed,Back-end developer,6-8 years,0-2 years,Very dissatisfied,Very dissatisfied,78,Sometimes,Good
+Canada,30,male,Doctoral degree,Other,Employed part-time,Data scientist,0-2 years,12+ years,Slightly satisfied,Neutral,37,Full-time remote,Prefer not to say
+Australia,19,male,Secondary school,Engineering,Student,Back-end developer,6-8 years,12+ years,Slightly dissatisfied,Slightly dissatisfied,68,Most of the time,Good
+United Kingdom,53,male,Secondary school,Computer science,Employed full-time,Front-end developer,6-8 years,12+ years,Slightly satisfied,Neutral,23,Sometimes,Fair
+India,29,female,Doctoral degree,Other,Self-employed,Full-stack developer,0-2 years,9-11 years,Very satisfied,Very satisfied,50,Most of the time,Good
+Brazil,46,female,Masters degree,Mathematics,Student,Back-end developer,9-11 years,6-8 years,Neutral,Very dissatisfied,63,Full-time remote,Excellent
+United States,27,male,Some college,Mathematics,Employed part-time,Data scientist,0-2 years,Not applicable,Very satisfied,Very satisfied,20,Never,Fair
+Canada,42,male,Some college,Other,Self-employed,Other,12+ years,Not applicable,Neutral,Slightly satisfied,35,Rarely,Fair
+Germany,54,female,Doctoral degree,Mathematics,Not employed,Front-end developer,6-8 years,6-8 years,Slightly dissatisfied,Very satisfied,27,Sometimes,Fair
+India,18,male,Masters degree,Mathematics,Employed part-time,Full-stack developer,12+ years,Not applicable,Slightly dissatisfied,Slightly satisfied,60,Full-time remote,Fair
+United States,48,female,Bachelors degree,Information systems,Student,Data scientist,12+ years,6-8 years,Very dissatisfied,Slightly satisfied,30,Most of the time,Excellent
+Netherlands,22,male,Some college,Mathematics,Student,Full-stack developer,3-5 years,3-5 years,Slightly satisfied,Slightly dissatisfied,41,Rarely,Fair
+France,57,male,Masters degree,Mathematics,Not employed,Data scientist,6-8 years,Not applicable,Very dissatisfied,Very dissatisfied,72,Full-time remote,Fair
+Australia,19,male,Masters degree,Engineering,Employed full-time,Front-end developer,0-2 years,0-2 years,Very dissatisfied,Slightly dissatisfied,37,Full-time remote,Excellent
+Other,40,male,Secondary school,Mathematics,Student,Data scientist,12+ years,6-8 years,Very dissatisfied,Slightly dissatisfied,63,Most of the time,Fair
+Other,40,male,Some college,Mathematics,Student,Front-end developer,3-5 years,Not applicable,Slightly satisfied,Slightly dissatisfied,52,Rarely,Fair
+India,42,other,Bachelors degree,Information systems,Employed part-time,Front-end developer,3-5 years,3-5 years,Very dissatisfied,Very satisfied,61,Sometimes,Good
+Brazil,51,female,Some college,Other,Not employed,Full-stack developer,6-8 years,6-8 years,Neutral,Slightly dissatisfied,39,Never,Prefer not to say
+United Kingdom,62,male,Masters degree,Computer science,Employed full-time,Front-end developer,0-2 years,0-2 years,Very dissatisfied,Slightly dissatisfied,44,Rarely,Excellent
+Germany,19,male,Bachelors degree,Other,Employed part-time,Data scientist,0-2 years,Not applicable,Very dissatisfied,Neutral,58,Most of the time,Fair
+Netherlands,22,female,Doctoral degree,Engineering,Employed full-time,Full-stack developer,12+ years,0-2 years,Neutral,Neutral,31,Never,Excellent
+United States,26,male,Doctoral degree,Information systems,Employed full-time,Full-stack developer,3-5 years,Not applicable,Slightly dissatisfied,Slightly dissatisfied,52,Never,Excellent
+United Kingdom,49,male,Doctoral degree,Other,Employed part-time,Other,12+ years,6-8 years,Slightly satisfied,Very dissatisfied,21,Full-time remote,Fair
+India,19,female,Secondary school,Mathematics,Not employed,Back-end developer,9-11 years,6-8 years,Very satisfied,Neutral,53,Most of the time,Good
+Germany,56,male,Bachelors degree,Information systems,Employed full-time,Full-stack developer,3-5 years,Not applicable,Neutral,Very dissatisfied,58,Sometimes,Fair
+Other,60,male,Masters degree,Other,Employed part-time,Front-end developer,12+ years,Not applicable,Slightly dissatisfied,Neutral,66,Sometimes,Poor
+Australia,41,female,Masters degree,Computer science,Student,Back-end developer,12+ years,Not applicable,Slightly dissatisfied,Slightly satisfied,41,Full-time remote,Excellent
+United States,49,male,Secondary school,Mathematics,Student,Full-stack developer,0-2 years,0-2 years,Neutral,Neutral,31,Rarely,Excellent
+Germany,49,male,Masters degree,Engineering,Student,Data scientist,12+ years,9-11 years,Neutral,Neutral,49,Full-time remote,Good
+Other,33,male,Bachelors degree,Other,Self-employed,Data scientist,3-5 years,9-11 years,Very dissatisfied,Slightly satisfied,34,Full-time remote,Excellent
+United States,39,other,Some college,Information systems,Employed full-time,Back-end developer,0-2 years,12+ years,Very satisfied,Slightly dissatisfied,32,Rarely,Good
+France,29,male,Secondary school,Mathematics,Self-employed,Data scientist,9-11 years,6-8 years,Very satisfied,Slightly dissatisfied,45,Full-time remote,Good
+Germany,33,other,Doctoral degree,Mathematics,Self-employed,Front-end developer,12+ years,9-11 years,Slightly satisfied,Neutral,74,Sometimes,Excellent
+France,57,male,Doctoral degree,Mathematics,Student,Full-stack developer,3-5 years,9-11 years,Slightly satisfied,Neutral,36,Rarely,Fair
+Netherlands,18,male,Some college,Other,Employed full-time,Data scientist,3-5 years,3-5 years,Neutral,Very dissatisfied,47,Never,Excellent
+Spain,48,female,Masters degree,Information systems,Employed full-time,Full-stack developer,9-11 years,12+ years,Slightly satisfied,Slightly dissatisfied,69,Most of the time,Good
+Netherlands,19,male,Masters degree,Engineering,Employed part-time,Data scientist,0-2 years,9-11 years,Very dissatisfied,Neutral,27,Never,Good
+Canada,61,male,Doctoral degree,Engineering,Student,Front-end developer,6-8 years,0-2 years,Slightly satisfied,Very dissatisfied,62,Full-time remote,Good
+France,58,female,Bachelors degree,Mathematics,Student,Full-stack developer,3-5 years,9-11 years,Very dissatisfied,Slightly satisfied,31,Sometimes,Fair
+Brazil,48,male,Secondary school,Information systems,Employed part-time,Other,0-2 years,0-2 years,Neutral,Slightly satisfied,35,Never,Good
+Canada,45,male,Secondary school,Information systems,Self-employed,Front-end developer,12+ years,0-2 years,Slightly satisfied,Slightly dissatisfied,47,Sometimes,Fair
+Other,36,female,Bachelors degree,Mathematics,Employed part-time,Full-stack developer,9-11 years,3-5 years,Very dissatisfied,Neutral,46,Rarely,Fair
+Netherlands,56,female,Secondary school,Computer science,Not employed,Data scientist,6-8 years,0-2 years,Very dissatisfied,Very dissatisfied,53,Full-time remote,Good
+Germany,60,male,Doctoral degree,Other,Not employed,Front-end developer,12+ years,Not applicable,Very satisfied,Neutral,45,Never,Good
+France,55,male,Masters degree,Information systems,Employed full-time,Full-stack developer,0-2 years,Not applicable,Very dissatisfied,Slightly dissatisfied,69,Rarely,Fair
+Germany,34,male,Bachelors degree,Mathematics,Employed full-time,Front-end developer,12+ years,6-8 years,Very satisfied,Neutral,57,Most of the time,Poor
+United States,26,male,Doctoral degree,Other,Student,Data scientist,3-5 years,3-5 years,Neutral,Very satisfied,55,Full-time remote,Excellent
+United Kingdom,30,male,Doctoral degree,Mathematics,Self-employed,Back-end developer,6-8 years,9-11 years,Very dissatisfied,Very satisfied,29,Most of the time,Fair
+United Kingdom,65,other,Bachelors degree,Computer science,Employed full-time,Front-end developer,12+ years,0-2 years,Very dissatisfied,Slightly satisfied,50,Never,Fair
+Spain,21,male,Doctoral degree,Information systems,Student,Data scientist,3-5 years,6-8 years,Slightly dissatisfied,Slightly dissatisfied,23,Sometimes,Good
+United States,58,male,Masters degree,Other,Student,Full-stack developer,3-5 years,0-2 years,Slightly satisfied,Very satisfied,54,Full-time remote,Good
+Other,42,female,Masters degree,Information systems,Student,Back-end developer,3-5 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,26,Sometimes,Excellent
+Spain,49,male,Masters degree,Computer science,Not employed,Data scientist,12+ years,Not applicable,Neutral,Very satisfied,63,Never,Fair
+France,44,female,Secondary school,Other,Self-employed,Other,6-8 years,9-11 years,Slightly satisfied,Slightly satisfied,45,Most of the time,Poor
+Canada,35,female,Bachelors degree,Information systems,Not employed,Other,12+ years,Not applicable,Slightly satisfied,Slightly dissatisfied,44,Full-time remote,Good
+United States,46,other,Bachelors degree,Computer science,Student,Back-end developer,6-8 years,9-11 years,Very satisfied,Neutral,26,Most of the time,Good
+India,42,female,Some college,Engineering,Self-employed,Front-end developer,6-8 years,3-5 years,Very satisfied,Very satisfied,22,Full-time remote,Good
+Spain,20,male,Masters degree,Mathematics,Self-employed,Full-stack developer,3-5 years,12+ years,Neutral,Slightly satisfied,37,Sometimes,Poor
+United States,53,male,Doctoral degree,Computer science,Not employed,Full-stack developer,3-5 years,3-5 years,Neutral,Neutral,76,Most of the time,Excellent
+Germany,58,male,Some college,Engineering,Employed full-time,Data scientist,6-8 years,9-11 years,Slightly satisfied,Slightly dissatisfied,48,Never,Fair
+United States,62,female,Secondary school,Information systems,Employed full-time,Front-end developer,6-8 years,6-8 years,Slightly satisfied,Very dissatisfied,47,Full-time remote,Good
+India,25,female,Bachelors degree,Mathematics,Employed full-time,Back-end developer,12+ years,Not applicable,Neutral,Very dissatisfied,49,Full-time remote,Prefer not to say
+United Kingdom,18,male,Masters degree,Engineering,Employed part-time,Other,12+ years,0-2 years,Slightly satisfied,Very satisfied,70,Sometimes,Poor
+France,39,male,Some college,Mathematics,Not employed,Full-stack developer,6-8 years,6-8 years,Very dissatisfied,Slightly satisfied,63,Never,Poor
+India,28,female,Doctoral degree,Mathematics,Not employed,Front-end developer,0-2 years,12+ years,Slightly dissatisfied,Slightly satisfied,47,Most of the time,Prefer not to say
+Other,51,female,Bachelors degree,Engineering,Employed full-time,Data scientist,0-2 years,6-8 years,Slightly satisfied,Neutral,36,Most of the time,Fair
+Australia,20,male,Some college,Other,Employed full-time,Full-stack developer,3-5 years,9-11 years,Slightly satisfied,Very dissatisfied,60,Never,Prefer not to say
+Australia,23,male,Some college,Other,Not employed,Full-stack developer,12+ years,12+ years,Slightly satisfied,Very dissatisfied,51,Most of the time,Good
+Germany,21,female,Masters degree,Information systems,Self-employed,Full-stack developer,3-5 years,Not applicable,Neutral,Very dissatisfied,26,Never,Good
+France,38,male,Bachelors degree,Engineering,Employed full-time,Front-end developer,3-5 years,3-5 years,Slightly satisfied,Very satisfied,38,Full-time remote,Good
+Brazil,39,male,Secondary school,Computer science,Employed part-time,Other,6-8 years,3-5 years,Slightly satisfied,Neutral,23,Sometimes,Good
+Other,36,male,Doctoral degree,Other,Self-employed,Full-stack developer,3-5 years,12+ years,Very satisfied,Slightly dissatisfied,22,Most of the time,Poor
+Canada,35,male,Some college,Mathematics,Employed full-time,Data scientist,12+ years,6-8 years,Slightly satisfied,Neutral,73,Rarely,Prefer not to say
+India,56,female,Doctoral degree,Computer science,Not employed,Back-end developer,9-11 years,9-11 years,Slightly satisfied,Slightly satisfied,73,Sometimes,Good
+Netherlands,23,male,Secondary school,Computer science,Student,Data scientist,6-8 years,6-8 years,Slightly satisfied,Very satisfied,25,Full-time remote,Fair
+Netherlands,55,male,Masters degree,Other,Student,Back-end developer,12+ years,9-11 years,Very dissatisfied,Very satisfied,37,Never,Good
+Germany,45,male,Secondary school,Computer science,Student,Other,6-8 years,3-5 years,Very satisfied,Slightly satisfied,72,Sometimes,Excellent
+Netherlands,65,male,Secondary school,Information systems,Employed part-time,Back-end developer,9-11 years,12+ years,Very dissatisfied,Slightly satisfied,55,Most of the time,Good
+Canada,45,male,Doctoral degree,Mathematics,Employed part-time,Back-end developer,12+ years,12+ years,Very dissatisfied,Neutral,63,Rarely,Excellent
+United States,62,male,Some college,Computer science,Employed full-time,Full-stack developer,9-11 years,0-2 years,Neutral,Slightly satisfied,45,Full-time remote,Fair
+Canada,24,female,Bachelors degree,Other,Employed part-time,Full-stack developer,9-11 years,3-5 years,Slightly satisfied,Very dissatisfied,22,Never,Good
+India,37,female,Doctoral degree,Information systems,Student,Back-end developer,6-8 years,0-2 years,Very dissatisfied,Very dissatisfied,49,Never,Excellent
+France,62,male,Secondary school,Engineering,Not employed,Data scientist,3-5 years,9-11 years,Very satisfied,Neutral,73,Full-time remote,Good
+India,36,male,Secondary school,Mathematics,Employed part-time,Data scientist,9-11 years,9-11 years,Very satisfied,Very satisfied,36,Most of the time,Fair
+France,38,male,Masters degree,Computer science,Employed part-time,Front-end developer,12+ years,9-11 years,Very dissatisfied,Slightly dissatisfied,21,Full-time remote,Good
+Germany,33,male,Some college,Mathematics,Self-employed,Front-end developer,0-2 years,6-8 years,Slightly dissatisfied,Very satisfied,32,Full-time remote,Fair
+Spain,65,female,Doctoral degree,Computer science,Not employed,Full-stack developer,6-8 years,9-11 years,Slightly satisfied,Neutral,57,Full-time remote,Fair
+Brazil,31,male,Doctoral degree,Information systems,Not employed,Front-end developer,0-2 years,3-5 years,Neutral,Neutral,58,Most of the time,Good
+Germany,19,male,Masters degree,Mathematics,Self-employed,Full-stack developer,6-8 years,12+ years,Slightly satisfied,Slightly dissatisfied,75,Most of the time,Good
+Australia,29,female,Some college,Engineering,Student,Data scientist,12+ years,3-5 years,Very satisfied,Neutral,22,Never,Good
+France,36,female,Some college,Other,Employed full-time,Full-stack developer,9-11 years,6-8 years,Slightly dissatisfied,Very satisfied,36,Never,Good
+France,54,male,Bachelors degree,Engineering,Employed full-time,Front-end developer,3-5 years,3-5 years,Slightly dissatisfied,Neutral,49,Full-time remote,Poor
+France,55,male,Masters degree,Engineering,Employed part-time,Data scientist,12+ years,9-11 years,Very dissatisfied,Slightly dissatisfied,42,Rarely,Poor
+Other,61,female,Doctoral degree,Other,Self-employed,Other,6-8 years,0-2 years,Slightly dissatisfied,Slightly satisfied,76,Never,Good
+India,54,male,Some college,Computer science,Employed full-time,Back-end developer,12+ years,9-11 years,Slightly dissatisfied,Very dissatisfied,21,Never,Fair
+France,33,male,Secondary school,Information systems,Self-employed,Front-end developer,9-11 years,Not applicable,Very dissatisfied,Very dissatisfied,72,Sometimes,Excellent
+Netherlands,54,male,Bachelors degree,Engineering,Self-employed,Back-end developer,12+ years,3-5 years,Neutral,Neutral,58,Most of the time,Good
+Spain,33,male,Some college,Computer science,Student,Front-end developer,0-2 years,Not applicable,Slightly satisfied,Slightly dissatisfied,41,Never,Fair
+United States,40,male,Doctoral degree,Other,Self-employed,Full-stack developer,6-8 years,3-5 years,Slightly satisfied,Slightly satisfied,65,Never,Good
+Germany,29,male,Some college,Mathematics,Employed part-time,Other,9-11 years,9-11 years,Slightly dissatisfied,Neutral,62,Never,Good
+United States,65,male,Some college,Information systems,Employed part-time,Data scientist,9-11 years,6-8 years,Slightly satisfied,Slightly satisfied,27,Never,Prefer not to say
+United States,23,male,Masters degree,Mathematics,Not employed,Front-end developer,12+ years,Not applicable,Slightly satisfied,Slightly satisfied,69,Rarely,Fair
+United Kingdom,49,other,Masters degree,Information systems,Employed part-time,Full-stack developer,3-5 years,12+ years,Slightly dissatisfied,Slightly dissatisfied,29,Never,Excellent
+United States,55,other,Masters degree,Mathematics,Not employed,Back-end developer,3-5 years,9-11 years,Neutral,Very satisfied,42,Full-time remote,Good
+Brazil,39,male,Bachelors degree,Other,Not employed,Front-end developer,6-8 years,12+ years,Very satisfied,Neutral,63,Never,Good
+India,32,male,Bachelors degree,Engineering,Employed part-time,Other,9-11 years,12+ years,Very satisfied,Neutral,50,Sometimes,Excellent
+Spain,18,male,Secondary school,Engineering,Employed full-time,Other,6-8 years,12+ years,Very satisfied,Slightly dissatisfied,63,Most of the time,Excellent
+Canada,29,male,Secondary school,Mathematics,Student,Full-stack developer,9-11 years,0-2 years,Slightly satisfied,Neutral,40,Rarely,Fair
+United States,51,male,Bachelors degree,Mathematics,Employed part-time,Front-end developer,0-2 years,6-8 years,Very satisfied,Very dissatisfied,43,Sometimes,Good
+Netherlands,19,male,Bachelors degree,Engineering,Employed part-time,Data scientist,12+ years,6-8 years,Very dissatisfied,Very dissatisfied,56,Most of the time,Fair
+Australia,49,male,Masters degree,Mathematics,Student,Data scientist,6-8 years,9-11 years,Slightly dissatisfied,Slightly dissatisfied,51,Never,Good
+Spain,47,male,Secondary school,Mathematics,Student,Back-end developer,9-11 years,9-11 years,Very satisfied,Very dissatisfied,36,Rarely,Excellent
+Canada,64,female,Bachelors degree,Computer science,Student,Full-stack developer,6-8 years,12+ years,Neutral,Slightly dissatisfied,48,Most of the time,Prefer not to say
+Brazil,43,male,Doctoral degree,Computer science,Not employed,Front-end developer,12+ years,Not applicable,Very satisfied,Neutral,32,Most of the time,Poor
+Spain,37,female,Some college,Other,Not employed,Data scientist,6-8 years,12+ years,Very satisfied,Very satisfied,70,Sometimes,Excellent
+Australia,55,female,Bachelors degree,Engineering,Not employed,Full-stack developer,3-5 years,Not applicable,Very dissatisfied,Neutral,25,Full-time remote,Excellent
+India,33,male,Masters degree,Computer science,Student,Data scientist,12+ years,3-5 years,Slightly dissatisfied,Very satisfied,44,Sometimes,Poor
+India,24,male,Secondary school,Computer science,Not employed,Data scientist,3-5 years,Not applicable,Slightly satisfied,Slightly satisfied,26,Sometimes,Fair
+Spain,65,other,Some college,Mathematics,Self-employed,Data scientist,3-5 years,12+ years,Very dissatisfied,Neutral,22,Most of the time,Excellent
+Netherlands,47,male,Doctoral degree,Other,Student,Back-end developer,0-2 years,3-5 years,Very satisfied,Very dissatisfied,36,Most of the time,Poor
+Australia,21,female,Some college,Engineering,Employed full-time,Other,6-8 years,3-5 years,Slightly dissatisfied,Slightly dissatisfied,49,Rarely,Fair
+Germany,47,male,Bachelors degree,Information systems,Not employed,Other,9-11 years,12+ years,Slightly dissatisfied,Slightly satisfied,80,Rarely,Good
+Germany,37,male,Masters degree,Mathematics,Student,Back-end developer,0-2 years,6-8 years,Very dissatisfied,Slightly satisfied,79,Full-time remote,Fair
+United States,52,male,Some college,Mathematics,Employed full-time,Front-end developer,0-2 years,3-5 years,Slightly satisfied,Slightly dissatisfied,70,Rarely,Fair
+India,57,male,Secondary school,Mathematics,Employed full-time,Front-end developer,6-8 years,3-5 years,Slightly satisfied,Very satisfied,49,Never,Fair
+Brazil,43,female,Masters degree,Information systems,Employed part-time,Full-stack developer,9-11 years,9-11 years,Slightly dissatisfied,Slightly satisfied,78,Full-time remote,Poor
+Other,41,male,Bachelors degree,Mathematics,Employed full-time,Back-end developer,12+ years,Not applicable,Very satisfied,Slightly dissatisfied,34,Full-time remote,Poor
+France,47,male,Bachelors degree,Other,Student,Back-end developer,3-5 years,3-5 years,Slightly dissatisfied,Very satisfied,70,Rarely,Excellent
+Germany,52,female,Masters degree,Mathematics,Not employed,Data scientist,0-2 years,6-8 years,Slightly satisfied,Very dissatisfied,62,Sometimes,Excellent
+France,42,male,Secondary school,Information systems,Student,Back-end developer,3-5 years,12+ years,Very satisfied,Very satisfied,78,Most of the time,Good
+Australia,58,other,Bachelors degree,Other,Self-employed,Data scientist,12+ years,Not applicable,Very dissatisfied,Very satisfied,75,Most of the time,Good
+Germany,43,female,Doctoral degree,Other,Student,Front-end developer,12+ years,9-11 years,Slightly dissatisfied,Slightly satisfied,78,Rarely,Good
+United Kingdom,57,male,Bachelors degree,Mathematics,Student,Other,12+ years,Not applicable,Neutral,Very satisfied,63,Rarely,Excellent
+Other,55,male,Secondary school,Engineering,Employed part-time,Full-stack developer,0-2 years,Not applicable,Very satisfied,Slightly dissatisfied,33,Sometimes,Fair
+India,39,female,Some college,Computer science,Employed full-time,Front-end developer,12+ years,12+ years,Slightly satisfied,Very dissatisfied,27,Most of the time,Fair
+United States,22,male,Secondary school,Other,Employed part-time,Data scientist,9-11 years,Not applicable,Neutral,Very satisfied,26,Full-time remote,Good
+Australia,19,male,Doctoral degree,Mathematics,Not employed,Full-stack developer,3-5 years,6-8 years,Slightly satisfied,Slightly satisfied,26,Full-time remote,Good
+France,39,female,Secondary school,Mathematics,Not employed,Front-end developer,0-2 years,Not applicable,Slightly satisfied,Very dissatisfied,27,Never,Good
+Brazil,65,other,Some college,Other,Student,Other,9-11 years,0-2 years,Neutral,Very satisfied,55,Full-time remote,Prefer not to say
+Australia,55,other,Doctoral degree,Computer science,Employed full-time,Front-end developer,9-11 years,0-2 years,Slightly satisfied,Very dissatisfied,57,Rarely,Good
+India,39,male,Secondary school,Mathematics,Not employed,Back-end developer,0-2 years,0-2 years,Slightly dissatisfied,Neutral,55,Never,Excellent
+Brazil,52,female,Some college,Mathematics,Not employed,Back-end developer,9-11 years,9-11 years,Neutral,Slightly satisfied,23,Sometimes,Good
+Brazil,27,male,Doctoral degree,Computer science,Not employed,Back-end developer,9-11 years,6-8 years,Neutral,Very satisfied,33,Full-time remote,Fair
+France,30,female,Some college,Engineering,Not employed,Full-stack developer,3-5 years,3-5 years,Very satisfied,Neutral,32,Most of the time,Good
+Spain,56,male,Doctoral degree,Information systems,Employed part-time,Other,0-2 years,9-11 years,Neutral,Neutral,50,Most of the time,Excellent
+France,53,male,Masters degree,Other,Employed part-time,Other,6-8 years,0-2 years,Neutral,Slightly dissatisfied,45,Most of the time,Good
+Germany,27,male,Some college,Engineering,Employed full-time,Other,0-2 years,6-8 years,Slightly satisfied,Neutral,52,Full-time remote,Excellent
+France,56,male,Some college,Information systems,Employed part-time,Other,12+ years,12+ years,Very dissatisfied,Slightly dissatisfied,32,Full-time remote,Good
+United Kingdom,24,female,Bachelors degree,Engineering,Student,Front-end developer,0-2 years,6-8 years,Very dissatisfied,Very dissatisfied,24,Never,Good
+Germany,25,male,Masters degree,Computer science,Not employed,Data scientist,3-5 years,Not applicable,Very satisfied,Slightly dissatisfied,32,Sometimes,Fair
+Germany,52,female,Doctoral degree,Mathematics,Employed full-time,Full-stack developer,12+ years,Not applicable,Very satisfied,Very dissatisfied,66,Rarely,Good
+Germany,25,male,Doctoral degree,Mathematics,Employed full-time,Other,6-8 years,Not applicable,Neutral,Very dissatisfied,36,Most of the time,Good
+United States,18,male,Secondary school,Information systems,Employed part-time,Other,0-2 years,Not applicable,Slightly dissatisfied,Very dissatisfied,58,Never,Fair
+Netherlands,63,male,Secondary school,Other,Student,Full-stack developer,12+ years,0-2 years,Slightly dissatisfied,Very dissatisfied,73,Full-time remote,Excellent
+United Kingdom,61,male,Doctoral degree,Engineering,Self-employed,Full-stack developer,3-5 years,9-11 years,Very satisfied,Very satisfied,32,Sometimes,Fair
+United States,53,male,Bachelors degree,Mathematics,Not employed,Other,0-2 years,Not applicable,Slightly dissatisfied,Slightly satisfied,20,Rarely,Poor
+India,56,other,Some college,Other,Employed part-time,Back-end developer,9-11 years,3-5 years,Very dissatisfied,Slightly dissatisfied,42,Most of the time,Prefer not to say
+United Kingdom,32,male,Bachelors degree,Information systems,Student,Data scientist,3-5 years,9-11 years,Slightly dissatisfied,Very satisfied,59,Sometimes,Poor
+United Kingdom,26,male,Doctoral degree,Engineering,Student,Front-end developer,6-8 years,3-5 years,Very dissatisfied,Very dissatisfied,59,Rarely,Good
+France,37,female,Doctoral degree,Mathematics,Employed full-time,Front-end developer,0-2 years,3-5 years,Slightly dissatisfied,Slightly satisfied,45,Most of the time,Fair
+Australia,29,female,Secondary school,Computer science,Self-employed,Full-stack developer,6-8 years,3-5 years,Very dissatisfied,Slightly satisfied,74,Never,Fair
+Other,19,male,Masters degree,Computer science,Employed part-time,Data scientist,3-5 years,0-2 years,Slightly dissatisfied,Slightly satisfied,68,Full-time remote,Good
+United Kingdom,18,male,Doctoral degree,Computer science,Employed part-time,Back-end developer,0-2 years,0-2 years,Slightly satisfied,Very satisfied,74,Rarely,Fair
+United States,26,male,Secondary school,Engineering,Self-employed,Data scientist,3-5 years,9-11 years,Slightly dissatisfied,Very satisfied,49,Full-time remote,Fair
+United Kingdom,45,male,Masters degree,Computer science,Employed part-time,Full-stack developer,0-2 years,9-11 years,Slightly dissatisfied,Slightly dissatisfied,20,Full-time remote,Fair
+Canada,41,male,Some college,Mathematics,Student,Back-end developer,12+ years,12+ years,Very dissatisfied,Neutral,46,Most of the time,Good
+Germany,64,male,Bachelors degree,Engineering,Employed part-time,Full-stack developer,9-11 years,12+ years,Neutral,Slightly satisfied,53,Full-time remote,Excellent
+United States,33,male,Doctoral degree,Information systems,Employed full-time,Back-end developer,3-5 years,0-2 years,Neutral,Very satisfied,44,Rarely,Good
+Netherlands,26,male,Bachelors degree,Computer science,Employed full-time,Full-stack developer,9-11 years,9-11 years,Neutral,Very dissatisfied,42,Full-time remote,Good
+Spain,19,male,Bachelors degree,Information systems,Self-employed,Back-end developer,9-11 years,Not applicable,Very dissatisfied,Very satisfied,67,Rarely,Excellent
+Netherlands,60,male,Some college,Engineering,Employed full-time,Full-stack developer,0-2 years,12+ years,Very dissatisfied,Slightly satisfied,79,Rarely,Fair
+Spain,26,male,Bachelors degree,Other,Not employed,Back-end developer,0-2 years,6-8 years,Neutral,Slightly satisfied,35,Full-time remote,Good
+India,28,male,Masters degree,Mathematics,Self-employed,Data scientist,3-5 years,9-11 years,Slightly dissatisfied,Neutral,37,Never,Good
+United States,59,male,Doctoral degree,Computer science,Not employed,Other,0-2 years,Not applicable,Slightly dissatisfied,Very satisfied,20,Rarely,Excellent
+Netherlands,59,male,Some college,Mathematics,Student,Full-stack developer,6-8 years,Not applicable,Slightly satisfied,Neutral,41,Sometimes,Good
+Netherlands,34,female,Some college,Other,Self-employed,Data scientist,0-2 years,6-8 years,Neutral,Slightly satisfied,48,Never,Good
+United States,35,female,Doctoral degree,Other,Not employed,Other,12+ years,12+ years,Slightly satisfied,Very dissatisfied,59,Most of the time,Poor
+Australia,44,male,Masters degree,Information systems,Self-employed,Full-stack developer,0-2 years,Not applicable,Very dissatisfied,Neutral,54,Sometimes,Good
+Germany,18,male,Masters degree,Other,Employed part-time,Back-end developer,12+ years,6-8 years,Very satisfied,Very dissatisfied,73,Sometimes,Fair
+Netherlands,49,male,Some college,Engineering,Self-employed,Front-end developer,3-5 years,Not applicable,Slightly satisfied,Very dissatisfied,72,Rarely,Excellent
+Canada,55,other,Some college,Information systems,Not employed,Full-stack developer,0-2 years,12+ years,Neutral,Very satisfied,63,Rarely,Fair
+Spain,25,male,Some college,Information systems,Not employed,Back-end developer,6-8 years,Not applicable,Very satisfied,Slightly dissatisfied,26,Rarely,Poor
+Canada,65,male,Some college,Mathematics,Employed part-time,Front-end developer,6-8 years,9-11 years,Neutral,Very dissatisfied,34,Most of the time,Fair
+Germany,32,male,Secondary school,Engineering,Employed full-time,Front-end developer,9-11 years,12+ years,Very satisfied,Neutral,77,Never,Prefer not to say
+Spain,46,male,Doctoral degree,Information systems,Employed full-time,Other,3-5 years,6-8 years,Very dissatisfied,Very dissatisfied,56,Never,Good
+United States,39,other,Masters degree,Computer science,Not employed,Back-end developer,9-11 years,Not applicable,Very dissatisfied,Neutral,21,Full-time remote,Fair
+United States,45,other,Doctoral degree,Computer science,Student,Data scientist,0-2 years,0-2 years,Slightly satisfied,Slightly dissatisfied,25,Most of the time,Excellent
+Other,58,male,Bachelors degree,Other,Student,Other,12+ years,0-2 years,Very satisfied,Very dissatisfied,21,Sometimes,Good
+United Kingdom,29,female,Doctoral degree,Mathematics,Student,Data scientist,0-2 years,6-8 years,Slightly satisfied,Very dissatisfied,74,Full-time remote,Good
+India,23,male,Some college,Information systems,Not employed,Data scientist,3-5 years,9-11 years,Very satisfied,Slightly dissatisfied,45,Rarely,Excellent
+India,34,other,Secondary school,Other,Employed part-time,Front-end developer,12+ years,12+ years,Slightly satisfied,Slightly dissatisfied,20,Full-time remote,Excellent
+Australia,49,female,Doctoral degree,Information systems,Employed part-time,Full-stack developer,9-11 years,6-8 years,Slightly satisfied,Slightly dissatisfied,28,Most of the time,Good
+United States,55,male,Doctoral degree,Engineering,Not employed,Full-stack developer,0-2 years,9-11 years,Very satisfied,Very dissatisfied,22,Sometimes,Poor
+Australia,55,female,Doctoral degree,Information systems,Not employed,Other,12+ years,Not applicable,Very satisfied,Very dissatisfied,61,Rarely,Good
+Brazil,45,male,Bachelors degree,Information systems,Self-employed,Front-end developer,12+ years,Not applicable,Slightly dissatisfied,Very dissatisfied,60,Rarely,Excellent
+United Kingdom,29,other,Secondary school,Information systems,Employed part-time,Other,9-11 years,12+ years,Slightly dissatisfied,Slightly satisfied,50,Most of the time,Good
+India,38,male,Doctoral degree,Engineering,Employed full-time,Other,3-5 years,9-11 years,Very dissatisfied,Slightly dissatisfied,37,Rarely,Good
+Brazil,22,male,Doctoral degree,Engineering,Self-employed,Other,3-5 years,6-8 years,Very dissatisfied,Very dissatisfied,53,Full-time remote,Good
+Brazil,33,male,Doctoral degree,Other,Self-employed,Front-end developer,9-11 years,9-11 years,Very satisfied,Slightly satisfied,31,Full-time remote,Fair
+France,32,female,Bachelors degree,Information systems,Employed part-time,Data scientist,12+ years,0-2 years,Very satisfied,Slightly dissatisfied,75,Never,Excellent
+Brazil,56,other,Secondary school,Engineering,Not employed,Other,9-11 years,Not applicable,Very dissatisfied,Slightly dissatisfied,48,Sometimes,Poor
+Canada,32,female,Secondary school,Mathematics,Employed full-time,Other,12+ years,6-8 years,Very satisfied,Very dissatisfied,44,Most of the time,Good
+United States,62,male,Masters degree,Computer science,Employed part-time,Full-stack developer,0-2 years,3-5 years,Slightly satisfied,Slightly satisfied,23,Sometimes,Good
+Netherlands,58,male,Secondary school,Mathematics,Employed part-time,Other,6-8 years,6-8 years,Very dissatisfied,Very satisfied,71,Never,Good
+France,54,female,Masters degree,Other,Student,Data scientist,6-8 years,Not applicable,Slightly satisfied,Slightly dissatisfied,59,Never,Good
+Germany,26,male,Masters degree,Engineering,Student,Front-end developer,0-2 years,0-2 years,Slightly dissatisfied,Very dissatisfied,34,Full-time remote,Excellent
+United States,50,male,Masters degree,Mathematics,Employed part-time,Full-stack developer,6-8 years,12+ years,Slightly dissatisfied,Slightly dissatisfied,32,Never,Excellent
+United Kingdom,40,male,Bachelors degree,Mathematics,Student,Back-end developer,9-11 years,Not applicable,Very dissatisfied,Slightly satisfied,24,Most of the time,Good
+Germany,58,male,Bachelors degree,Engineering,Self-employed,Full-stack developer,3-5 years,3-5 years,Slightly dissatisfied,Very dissatisfied,32,Full-time remote,Fair

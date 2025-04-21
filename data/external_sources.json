@@ -1,0 +1,6 @@
+{
+    "osmi_survey": "https://raw.githubusercontent.com/OSMI/Mental-Health-in-Tech-Survey/master/2016/2016_OSMI_Survey_Responses.csv",
+    "stackoverflow_survey": "https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2018/2018-05-08/stack_overflow_data.csv",
+    "who_mental_health": "https://apps.who.int/gho/data/node.main.MENTALHEALTH?lang=en",
+    "oecd_mental_health": "https://data.oecd.org/healthstat/suicide-rates.htm"
+}
