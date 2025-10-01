@@ -117,3 +117,6 @@ OSMI Survey
 
 Stack Overflow Developer Survey
 
+
+### Link to the demo
+https://mentalhealthwebappbyreda.streamlit.app/
