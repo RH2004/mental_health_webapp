@@ -86,6 +86,8 @@ pip install -r requirements.txt
 # 3. Launch the dashboard
 streamlit run app.py
 
+```
+
 ✍️ Reflection
 🤔 Challenges Faced
 Dataset cleaning and alignment across two large surveys
